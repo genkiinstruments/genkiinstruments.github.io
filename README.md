@@ -1,3 +1,3 @@
 # Genki Docs
 
-[See live here](genkiinstruments.github.io).
+[See live here](https://genkiinstruments.github.io) ✨
