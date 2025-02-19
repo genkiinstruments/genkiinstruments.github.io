@@ -1,0 +1,74 @@
+---
+title: "Cubase"
+description: ""
+created_at: "2020-10-26T09:53:31Z"
+updated_at: "2021-06-08T11:42:54Z"
+zendesk: 360029876017
+---
+
+import { YouTube } from 'astro-embed';
+
+<YouTube id="jOUOpD5h3X8" />
+
+
+
+1. To make sure Wave works with Steinberg's Cubase, navigate to the top menu of your screen to Studio → Studio Setup. The MIDI Port Setup window should have opened.
+2. Find "Wave IN" on the list of devices and make sure "In 'All MIDI Ins' is enabled.
+3. Cubase has mappings auto-assigned. In Softwave map the function you want to use to one of the following CC signals:
+
+<table class="table">
+<thead>
+<tr>
+<th>CC number</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CC 1</td>
+<td>Modulation</td>
+</tr>
+<tr>
+<td>CC 2</td>
+<td>Breath</td>
+</tr>
+<tr>
+<td>CC 4</td>
+<td>Foot</td>
+</tr>
+<tr>
+<td>CC 7</td>
+<td>Main Volume</td>
+</tr>
+<tr>
+<td>CC 8</td>
+<td>Balance</td>
+</tr>
+<tr>
+<td>CC 10</td>
+<td>Pan</td>
+</tr>
+<tr>
+<td>CC 11</td>
+<td>Expression</td>
+</tr>
+<tr>
+<td>CC 16</td>
+<td>Gen Purp1</td>
+</tr>
+<tr>
+<td>CC 25</td>
+<td>Control 25</td>
+</tr>
+<tr>
+<td>CC 64</td>
+<td>Sustain</td>
+</tr>
+</tbody>
+</table>
+Wave should automatically control the selected CC in Cubase.
+4. To assign Wave to a 3rd party plugin, solo the function you want to map within Softwave. Make sure your function has a dedicated CC number or Note (→ [see Functions](/wave-for-music/functions/tilt-pan-roll/)) that is not already auto-assigned in Cubase.
+5. In the 3rd party plugin right click on the parameter you want to map. Many plugins allow "MIDI Learn". Select "MIDI Learn" if available.
+6. Depending on which of Wave's functions you are mapping, move, tap or click on Wave to make the link.
+7. Now De-Solo the function in Softwave. The function should be mapped to the parameter in the 3rd party plugin within Cubase.
+8. Repeat for other functions.

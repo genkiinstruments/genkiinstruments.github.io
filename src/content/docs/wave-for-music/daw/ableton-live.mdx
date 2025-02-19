@@ -1,0 +1,36 @@
+---
+title: "Ableton Live"
+description: ""
+created_at: "2020-10-26T09:51:05Z"
+updated_at: "2021-05-27T11:56:29Z"
+zendesk: 360029875357
+---
+
+import { YouTube } from 'astro-embed';
+
+<YouTube id="kqo_0OsObtQ" />
+
+1. To make sure Wave works with Live, navigate to the top left corner of your screen to Live → Preferences → Link MIDI. Make sure Wave (Bluetooth) has Track and Remote toggled on.
+2. In Softwave solo the function you want to map. Make sure your function has a dedicated CC number or Note.
+3. In Live navigate to MIDI in the top right corner, shortcut cmd+m (macOS) or ctrl+m (Windows).
+4. Select the parameter you want to map.
+5. Depending on which type of function you are mapping, move, tap or click on Wave to make the link.
+6. Press MIDI again in Live. De-Solo the function. You should have mapped a function to a parameter in Live successfully.
+7. Repeat for other functions.
+
+---
+
+:::tip
+In order to map functions from Softwave to Ableton Live you need to attach a MIDI CC number to the function.
+
+You can assign any CC number, but make sure each function has an individual number.
+Softwave uses this number to communicate with your DAW.
+
+Additionally you can assign:
+1. PB (Pitchbend) to Tilt, Pan, Roll and Vibrato.
+2. Notes (C, C#, D, E, F etc.) when using the Tap function.
+3. Notes and Key commands/Shortcuts (cmd+T, R, f12 etc.) when using the Click function.
+
+![](/src/assets/images/article_360014645397_image_0.gif)
+:::
+

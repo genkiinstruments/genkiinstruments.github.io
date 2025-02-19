@@ -1,0 +1,52 @@
+---
+title: "Compatibility"
+description: ""
+created_at: "2020-09-28T14:43:15Z"
+updated_at: "2021-04-09T13:28:33Z"
+sidebar:
+  order: 4
+---
+
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+In order to use Wave you need a computer that is equipped with Bluetooth 4.0. 
+
+Wave uses Bluetooth Low Energy (BLE) which was first introduced with Bluetooth 4.0. Additionally you'll need a PC computer with Windows 10 or an Apple computer with OSX El Capitan or higher.
+
+
+<Tabs>
+  <TabItem label="macOS">
+
+Bluetooth 4.0 was introduced to most Apple products around 2011/2012.
+
+- Mac Mini and Macbook Air in 2011.
+- Macbook Pro and iMac in 2012.
+- Mac Pro in 2013 (Black Model).
+
+##### See if your mac is compatible with Wave:
+
+1. Click the Apple logo in the top left corner of your screen.
+2. Select About this Mac.
+3. There you'll see your macOS version. You need to have El Capitan or higher (v. 10.11).
+4. Click on the System Report... button.
+5. Navigate to Bluetooth in the sidebar to the left, it's under Hardware.
+6. Navigate to LMP Version down the list that appears when you've selected Bluetooth.
+7. If LMP reads 0x6 or higher your Mac is compatible with Wave.
+  </TabItem>
+
+
+  <TabItem label="Windows">
+
+Most modern Windows laptops have built in Bluetooth LE support.
+
+##### See if your PC is compatible with Wave:
+
+1. Right click the Start button and select Device Manager.
+2. In Device Manager navigate to Bluetooth and expand it (the arrow).
+3. If your PC supports Bluetooth 4.0 you will see Bluetooth LE Enumerator on the expanded list.
+
+  </TabItem>
+</Tabs>
+
+
+
