@@ -10,18 +10,18 @@ sidebar:
 
 <h3>Wave
 
-![](/src/assets/images/article_360014169437_image_0.png)
+![](/images/article_360014169437_image_0.png)
 
 Preset Bank
 
-![](/src/assets/images/article_360014169437_image_1.png)
+![](/images/article_360014169437_image_1.png)
 
 Preset
 
-![](/src/assets/images/article_360014169437_image_2.png)
+![](/images/article_360014169437_image_2.png)
 
 Functions within a preset
 
-![](/src/assets/images/article_360014169437_image_3.png)
+![](/images/article_360014169437_image_3.png)
 
 </h3>

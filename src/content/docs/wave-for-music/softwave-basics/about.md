@@ -14,7 +14,7 @@ Softwave also has a built in sound engine and comes pre-loaded with fifteen cura
 
 [ Download quickstart guide here](/quickstart-guides/softwave.pdf).
 
-![](/src/assets/images/article_360014085918_image_0.png)
+![](/images/article_360014085918_image_0.png)
 
 :::tip[When using Softwave.]
 * When using Wave with your DAW keep Softwave open in the background.

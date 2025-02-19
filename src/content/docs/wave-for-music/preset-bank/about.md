@@ -8,7 +8,7 @@ sidebar:
   order: 1
 ---
 
-![](/src/assets/images/article_360013618357_image_0.png)
+![](/images/article_360013618357_image_0.png)
 
 Softwave holds one Preset Bank at a time.
 

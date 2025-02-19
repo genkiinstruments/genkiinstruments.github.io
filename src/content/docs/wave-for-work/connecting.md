@@ -14,13 +14,13 @@ sidebar:
 4. Select "Wave" from the list of devices.
 5. Press **Connect**.
 
-![](/src/assets/images/article_360018164158_image_0.png)
+![](/images/article_360018164158_image_0.png)
 
 ### Auto-connect feature
 Next time you turn Wave on it will automatically connect to your computer if you have this feature enabled.
 
-![](/src/assets/images/article_360018164158_image_1.png)
+![](/images/article_360018164158_image_1.png)
 
 In order to disable the auto-connect feature head over to settings (gear icon in the lower left corner) and deselect "Autoconnect Wave".
 
-![](/src/assets/images/article_360018164158_image_2.png)
+![](/images/article_360018164158_image_2.png)

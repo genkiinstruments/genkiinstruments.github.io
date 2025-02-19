@@ -13,4 +13,4 @@ sidebar:
 3. Micro USB charging cable
 4. Softcase
 
-![](/src/assets/images/article_360017912417_image_0.png)
+![](/images/article_360017912417_image_0.png)

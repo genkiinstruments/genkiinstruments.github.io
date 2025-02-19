@@ -10,7 +10,7 @@ sidebar:
 
 Connect one end of the charging cable to Wave and the other one to a power source, such as your computer's USB port, in order to charge it. You may want to charge Wave before using it for the first time.
 
-![](/src/assets/images/article_360017912477_image_0.png)
+![](/images/article_360017912477_image_0.png)
 
 * A **full charge** takes 90 minutes and gives 8+ hours in constant use.
 

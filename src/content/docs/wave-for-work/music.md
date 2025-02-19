@@ -8,7 +8,7 @@ sidebar:
   order: 14
 ---
 
-![](/src/assets/images/wave-for-work-music.png)
+![](/images/wave-for-work-music.png)
 
 In the Music mode you can use Wave to control an application's audio, whether you're using Spotify, iTunes Music or YouTube.
 
@@ -27,10 +27,10 @@ The default settings can easily be customized.
 
 1. Click the action you want to change. For example "Next Song".
 
-![](/src/assets/images/article_360018049718_image_1.png)
+![](/images/article_360018049718_image_1.png)
 2. Select a new action from the list.
 
-![](/src/assets/images/article_360018049718_image_2.png)
+![](/images/article_360018049718_image_2.png)
 3. You're all set. In this example, every time you click the middle button, it mutes your computer's audio.
 
-![](/src/assets/images/article_360018049718_image_3.png)
+![](/images/article_360018049718_image_3.png)

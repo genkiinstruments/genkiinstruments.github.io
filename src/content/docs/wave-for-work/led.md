@@ -12,7 +12,7 @@ When you press the buttons on Wave, the LED screen lights up to let you know you
 
 ### This is a list of all the LED icons you might see on Wave
 
-![](/src/assets/images/wave-for-work-led.png)
+![](/images/wave-for-work-led.png)
 
-![](/src/assets/images/wave-for-work-led-volume.png)
+![](/images/wave-for-work-led-volume.png)
 

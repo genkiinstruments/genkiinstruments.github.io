@@ -12,7 +12,7 @@ WIDI Master by CME is a virtual MIDI cable that allows Bluetooth devices to be c
 
 You need to configure Wave to work with your instrument using Wave's companion software, Softwave. Note that you need to download the newest version of Softwave for it to work.
 
-![](/src/assets/images/article_360013555057_image_0.png)
+![](/images/article_360013555057_image_0.png)
 
 Wave can only be connected to one host at a time, either your computer or WIDI Master.
 

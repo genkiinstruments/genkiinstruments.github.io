@@ -14,13 +14,13 @@ To activate the Swipe gesture click the icon for the middle button in the applic
 
 
 
-![](/src/assets/images/article_4411050198929_image_0.png)
+![](/images/article_4411050198929_image_0.png)
 
 
 
 **To perform a Swipe gesture you keep your hand in front of you and simply swipe your hand. either to the right or to the left.**
 
-![](/src/assets/images/article_4411050198929_image_1.gif)
+![](/images/article_4411050198929_image_1.gif)
 :::tip
 Note that if you press the Middle button you can mute/unmute the Swipe gesture.
 :::

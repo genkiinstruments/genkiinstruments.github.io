@@ -8,7 +8,7 @@ zendesk: 360027570838
 
 At the top of every Preset you'll find the Preset Configuration Panel.
 
-![](/src/assets/images/article_360013786038_image_0.png)
+![](/images/article_360013786038_image_0.png)
 
 There you can configure the preset to your liking.
 
@@ -19,7 +19,7 @@ On the left side of the panel you'll see the preset number and preset name. To r
 
 Renaming Presets to a descriptive name can help organise your workflow; "Recording", "Automating strings" etc.
 
-![](/src/assets/images/article_360013786038_image_1.gif)
+![](/images/article_360013786038_image_1.gif)
 
 </details>
 <details>
@@ -29,7 +29,7 @@ Each preset can host its own plugin (VST3/AU). This way it’s easy to move betw
 
 If the preset is already hosting a plugin the box will read the name of that particular plugin.
 
-![](/src/assets/images/article_360013786038_image_2.gif)
+![](/images/article_360013786038_image_2.gif)
 
 </details>
 <details>
@@ -37,11 +37,11 @@ If the preset is already hosting a plugin the box will read the name of that par
 
 To see the plugin your preset is hosting press this icon.
 
-![](/src/assets/images/article_360013786038_image_3.gif)
+![](/images/article_360013786038_image_3.gif)
 
 For plugins to automatically open when you navigate to a preset press this icon.
 
-![](/src/assets/images/article_360013786038_image_4.gif)
+![](/images/article_360013786038_image_4.gif)
 
 </details>
 <details>
@@ -49,7 +49,7 @@ For plugins to automatically open when you navigate to a preset press this icon.
 
 Select this icon if you want Wave to activate automatically when you navigate to that particular preset. This feature is default in all new presets.
 
-![](/src/assets/images/article_360013786038_image_5.gif)
+![](/images/article_360013786038_image_5.gif)
 
 </details>
 <details>
@@ -63,7 +63,7 @@ The Absolute mode does the opposite. It keeps tracking your movements even if yo
 
 Absolute is stuck in space, Relative moves with you.
 
-![](/src/assets/images/article_360013786038_image_6.gif)
+![](/images/article_360013786038_image_6.gif)
 
 </details>
 <details>
@@ -71,7 +71,7 @@ Absolute is stuck in space, Relative moves with you.
 
 You can select a MIDI Channel for each preset. Press the MIDI icon in the top right corner of Softwave. Change the number for the channel by pressing the number and selecting from the list. The default is Channel 1.
 
-![](/src/assets/images/article_360013786038_image_7.png)
+![](/images/article_360013786038_image_7.png)
 
 </details>
 <details>
@@ -79,6 +79,6 @@ You can select a MIDI Channel for each preset. Press the MIDI icon in the top ri
 
 You can set a Program Change for each preset. This way, every time you navigate to that particular preset, it will send out the program change. Select the MIDI icon in the top right corner of Softwave to set the Program Change, Bank MSB and Bank LSB.
 
-![](/src/assets/images/article_360013786038_image_8.png)
+![](/images/article_360013786038_image_8.png)
 
 </details>

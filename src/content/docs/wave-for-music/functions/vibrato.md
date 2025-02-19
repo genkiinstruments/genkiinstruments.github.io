@@ -8,7 +8,7 @@ sidebar:
   order: 4
 ---
 
-![](/src/assets/images/article_360013749358_image_0.png)
+![](/images/article_360013749358_image_0.png)
 
 Vibrato lets you add natural vibrato to your playing. Vibrato is the side to side movement of your hand. It uses acceleration so it depends on how fast you move how much Vibrato you add.
 
@@ -17,7 +17,7 @@ Vibrato lets you add natural vibrato to your playing. Vibrato is the side to sid
 
 You can change the sensitivity of the Vibrato by dragging the line up or down, making it longer or shorter. A longer line is more sensitive and a shorter one less so.
 
-![](/src/assets/images/article_360013749358_image_1.gif)
+![](/images/article_360013749358_image_1.gif)
 
 </details>
 <details>
@@ -25,7 +25,7 @@ You can change the sensitivity of the Vibrato by dragging the line up or down, m
 
 If you press the Direction Arrow the parameter will move in the opposite direction of your movement.
 
-![](/src/assets/images/article_360013749358_image_2.gif)
+![](/images/article_360013749358_image_2.gif)
 
 </details>
 <details>
@@ -37,6 +37,6 @@ When mapping, Solo the function you want to map in order for Softwave to only se
 
 If you select Pitch Bend the function will map to a Pitch Bend parameter in your DAW.
 
-![](/src/assets/images/article_360013749358_image_3.gif)
+![](/images/article_360013749358_image_3.gif)
 
 </details>

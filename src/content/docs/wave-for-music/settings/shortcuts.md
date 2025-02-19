@@ -11,12 +11,12 @@ Use these shortcuts to control a few practical things in Softwave.
 <details>
 <summary>Key Shortcuts: macOS</summary>
 
-![](/src/assets/images/shortcuts_mac.png)
+![](/images/shortcuts_mac.png)
 
 </details>
 <details>
 <summary>Key Shortcuts: Windows</summary>
 
-![](/src/assets/images/shortcuts_win.png)
+![](/images/shortcuts_win.png)
 
 </details>

@@ -17,14 +17,14 @@ You can access the Wave for Work application **from your menu bar**. It is repre
 
 **c.** The icon on the right represents the LED display that is shown on the ring when you press Wave's button.
 
-![](/src/assets/images/article_360018185378_image_0.png)
+![](/images/article_360018185378_image_0.png)
 
 ## Modifying Actions
 **a.** To change the action for the button; select the text in the middle and either choose another action from the list, or create your own by selecting *Custom*.
 
 **b.** To change the LED display that is shown on the ring when you press Wave's button; select the icon and create your custom LED display.
 
-![](/src/assets/images/article_360018185378_image_1.png)
+![](/images/article_360018185378_image_1.png)
 
 ## Gesture Actions
 **a.** To activate the Swipe Gesture press the icon for the middle button. The icon should change and have arrows on both sides of the ring.
@@ -35,11 +35,11 @@ You can access the Wave for Work application **from your menu bar**. It is repre
 
 **d.** When you have the Swipe Gesture selected the middle button performs as a mute/unmute button for the Gesture. If swiping doesn't work it might be that you simply muted the feature and need to press the middle button once to unmute it.
 
-![](/src/assets/images/article_360018185378_image_2.png)
+![](/images/article_360018185378_image_2.png)
 
 ## Navigating Modes
 **a.** Navigate between the different modes by clicking the icons on the left.
 
 **b.** You can cycle between modes on the ring itself by holding the Up or Down button. To activate this feature go to *Settings* (gear icon on the bottom left) and enable *Cycle Between Modes*.
 
-![](/src/assets/images/article_360018185378_image_3.png)
+![](/images/article_360018185378_image_3.png)

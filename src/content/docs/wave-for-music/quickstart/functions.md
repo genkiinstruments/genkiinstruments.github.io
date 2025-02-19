@@ -10,4 +10,4 @@ sidebar:
 
 Wave has six functions you can use individually or mixed together.
 
-![](/src/assets/images/article_360013516077_image_0.png)
+![](/images/article_360013516077_image_0.png)

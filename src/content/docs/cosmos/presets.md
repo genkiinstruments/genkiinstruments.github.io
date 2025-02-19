@@ -16,41 +16,41 @@ To access the *Preset Overview* press the name of the preset you're in.
 
 To close the *Preset Overview* window press the preset name again.
 
-![](/src/assets/images/article_4436669617809_image_0.png)
+![](/images/article_4436669617809_image_0.png)
 
 ### Create new preset
 To create a new preset press **CREATE NEW PRESET**. You'll start with a clean slate and can create your own preset from the ground up.
 
-![](/src/assets/images/article_4436669617809_image_1.png)
+![](/images/article_4436669617809_image_1.png)
 
 ### Rename a preset
 To change the name of a preset **double click** the Preset name and type in a new one. Click anywhere with the mouse to confirm the new name or hit Enter.
 
-![](/src/assets/images/article_4436669617809_image_2.png)
+![](/images/article_4436669617809_image_2.png)
 
 ### Save preset
 When you change the state of a preset an asterisk symbol (*) is displayed beside the preset name. To save the state of the preset, and therefore overwrite the former state press **SAVE PRESET**.
 
-![](/src/assets/images/article_4436669617809_image_3.png)
+![](/images/article_4436669617809_image_3.png)
 
 ### Save as a new preset
 If you don't want to overwrite a preset you can create a new one with your new state by pressing **SAVE AS NEW PRESET**.
 
-![](/src/assets/images/article_4436669617809_image_4.png)
+![](/images/article_4436669617809_image_4.png)
 
 ### Import presets
 If you have presets saved to your computer you can import them by pressing **IMPORT PRESETS**. This action will add the imported presets to your current library.
 
-![](/src/assets/images/article_4436669617809_image_5.png)
+![](/images/article_4436669617809_image_5.png)
 
 ### Export presets
 To save presets for later or for sharing with another Cosmos user press **EXPORT PRESETS**.
 
-![](/src/assets/images/article_4436669617809_image_6.png)
+![](/images/article_4436669617809_image_6.png)
 
 ### Deleting presets
 To delete presets from your library press the **X** behind the preset name in the *Preset Overview*.
 
 **Note that you can not delete stock presets**.
 
-![](/src/assets/images/article_4436669617809_image_7.png)
+![](/images/article_4436669617809_image_7.png)

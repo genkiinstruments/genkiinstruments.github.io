@@ -14,7 +14,7 @@ The LED display indicates whether Wave is active or not.
 
 A stable horizontal line indicates that Wave is inactive while interactive horizontal and vertical lines indicate that Wave is actively sending data to Wavefront.
 
-![](/src/assets/images/article_360013653858_image_0.png)
+![](/images/article_360013653858_image_0.png)
 
 ## Edit Mode
 

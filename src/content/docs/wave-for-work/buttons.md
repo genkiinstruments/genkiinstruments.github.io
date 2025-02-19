@@ -12,7 +12,7 @@ Wave has three buttons easily reachable by the thumb. Each button is linked to a
 
 In order to register a command, simply press the button once.
 
-![](/src/assets/images/article_4411050170001_image_0.png)
+![](/images/article_4411050170001_image_0.png)
 
 
 

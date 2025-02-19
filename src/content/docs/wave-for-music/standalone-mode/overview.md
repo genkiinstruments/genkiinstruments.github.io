@@ -17,7 +17,7 @@ You can configure how Wave behaves in Standalone mode, creating presets and cust
 <details>
 <summary>Standalone Mode default values</summary>
 
-![](/src/assets/images/article_360013715117_image_0.png)
+![](/images/article_360013715117_image_0.png)
 
 </details>
 <details>
@@ -25,7 +25,7 @@ You can configure how Wave behaves in Standalone mode, creating presets and cust
 
 Wave has 3 buttons you can reach with your thumb. Each button has a certain function.
 
-![](/src/assets/images/article_360013715117_image_1.png)
+![](/images/article_360013715117_image_1.png)
 
 </details>
 

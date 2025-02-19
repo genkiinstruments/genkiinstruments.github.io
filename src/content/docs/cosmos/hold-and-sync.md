@@ -11,9 +11,9 @@ sidebar:
 ### Hold
 When enabled the **Hold** function holds all notes you press on your keyboard.
 
-![](/src/assets/images/article_4436779525265_image_0.png)
+![](/images/article_4436779525265_image_0.png)
 
 ### Sync
 When enabled, the Arpeggiator will sync to the host and it's rate will be a subdivision of the current BPM.
 
-![](/src/assets/images/article_4436779525265_image_1.png)
+![](/images/article_4436779525265_image_1.png)

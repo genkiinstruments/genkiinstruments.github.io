@@ -7,14 +7,14 @@ sidebar:
   order: 5
 ---
 
-[ ![](/src/assets/images//article_5063027289745_image_0.jpg)](/quickstart-guides/wave-for-music.pdf)
+[ ![](/images//article_5063027289745_image_0.jpg)](/quickstart-guides/wave-for-music.pdf)
 
-[ ![](/src/assets/images//article_5063027289745_image_1.jpg) ](/quickstart-guides/wave-for-work.pdf)
+[ ![](/images//article_5063027289745_image_1.jpg) ](/quickstart-guides/wave-for-work.pdf)
 
-[ ![](/src/assets/images//article_5063027289745_image_2.jpg) ](/quickstart-guides/wavefront.pdf)
+[ ![](/images//article_5063027289745_image_2.jpg) ](/quickstart-guides/wavefront.pdf)
 
-[ ![](/src/assets/images//article_5063027289745_image_3.jpg) ](/quickstart-guides/widi-master.pdf)
+[ ![](/images//article_5063027289745_image_3.jpg) ](/quickstart-guides/widi-master.pdf)
 
-[ ![](/src/assets/images//article_5063027289745_image_4.jpg) ](/quickstart-guides/softwave.pdf)
+[ ![](/images//article_5063027289745_image_4.jpg) ](/quickstart-guides/softwave.pdf)
 
-[ ![](/src/assets/images//article_5063027289745_image_5.jpg) ](/quickstart-guides/cosmos.pdf)
+[ ![](/images//article_5063027289745_image_5.jpg) ](/quickstart-guides/cosmos.pdf)

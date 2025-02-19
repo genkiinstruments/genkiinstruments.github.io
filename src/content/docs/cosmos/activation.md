@@ -14,4 +14,4 @@ You'll be prompted with the registration window after 3 minutes of use.
 
 If you have any problems activating, please email [wave@genkiinstruments.com](mailto:wave@genkiinstruments.com)
 
-![](/src/assets/images/article_4436165119505_image_0.png)
+![](/images/article_4436165119505_image_0.png)

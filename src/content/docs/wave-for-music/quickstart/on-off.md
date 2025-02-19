@@ -11,7 +11,7 @@ sidebar:
 To turn Wave *on*, toggle the Middle button on Wave. Lights should appear on top of the ring.
 To turn Wave *off*, hold the Up and Down button on Wave simultaneously until the lights on the ring turn off.
 
-![](/src/assets/images/article_360013516057_image_0.png)
+![](/images/article_360013516057_image_0.png)
 
 :::caution[Out of battery?]
 If Wave doesn’t turn on, then the battery might be drained. 

@@ -8,4 +8,4 @@ sidebar:
   order: 2
 ---
 
-![](/src/assets/images/article_4436685116945_image_0.png)
+![](/images/article_4436685116945_image_0.png)

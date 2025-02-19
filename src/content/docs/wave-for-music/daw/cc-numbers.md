@@ -26,4 +26,4 @@ Additionally you can assign:
 2. Notes (C, C#, D, E, F etc.) when using the Tap function.
 3. Notes and Key commands/Shortcuts (cmd+T, R, f12 etc.) when using the Click function.
 
-![](/src/assets/images/article_360015158658_image_0.gif)
+![](/images/article_360015158658_image_0.gif)

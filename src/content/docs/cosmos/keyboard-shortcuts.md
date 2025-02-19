@@ -10,4 +10,4 @@ sidebar:
 
 The following keyboard shortcuts are incorporated into Cosmos
 
-![](/src/assets/images/article_4436519827985_image_0.png)
+![](/images/article_4436519827985_image_0.png)

@@ -8,7 +8,7 @@ zendesk: 360027589278
 
 To access Wave's configuration panel press the gear-icon behind a connected Wave in the top left corner of Softwave. In the panel you can change Wave's name, Reset its movements, configure buttons and configure Wave's standalone mode.
 
-![](/src/assets/images/article_360013792738_image_0.png)
+![](/images/article_360013792738_image_0.png)
 
 <details>
 <summary>Rename Wave</summary>
@@ -17,7 +17,7 @@ To rename Wave right-click on a connected "Wave", select 'Rename' and type in a 
 
 Renaming Wave can come in handy when you have more than one Wave, or if you simply want to identify your own Wave from the ones of your friends.
 
-![](/src/assets/images/article_360013792738_image_1.png)
+![](/images/article_360013792738_image_1.png)
 
 </details>
 <details>
@@ -27,9 +27,9 @@ Depending on what you are doing it might come in handy to have Wave on your left
 
 Wave is symmetrical so this is easily possible. In order to flip the screen as well as the motion detection algorithms press "R" (Right). It should now read "L" (Left). Repeat to change it back.
 
-![](/src/assets/images/article_360013792738_image_2.png)
+![](/images/article_360013792738_image_2.png)
 
-![](/src/assets/images/article_360013792738_image_3.png)
+![](/images/article_360013792738_image_3.png)
 
 </details>
 <details>
@@ -39,7 +39,7 @@ Activating Wave from Softwave is made possible so one person can wear Wave and a
 
 Press this  icon. 
 
-![](/src/assets/images/article_360013792738_image_4.png)
+![](/images/article_360013792738_image_4.png)
 
 </details>
 <details>
@@ -49,7 +49,7 @@ Resetting Wave's movements from Softwave is made possible so one person can wear
 
 Press this icon. 
 
-![](/src/assets/images/article_360013792738_image_5.png)
+![](/images/article_360013792738_image_5.png)
 
 </details>
 <details>
@@ -57,7 +57,7 @@ Press this icon.
 
 You can configure all buttons to your liking, using either a Click or a Long Press (or both).
 
-![](/src/assets/images/article_360013792738_image_6.png)
+![](/images/article_360013792738_image_6.png)
 
 <table class="table table--color-header">
 <thead>
@@ -81,7 +81,7 @@ If you want to undo the resetting of the buttons you can use the undo command, c
 <h3>Button Icons</h3>
 These icons identify which button you are configuring.
 
-![](/src/assets/images/article_360013792738_image_7.png)
+![](/images/article_360013792738_image_7.png)
 
 <h3> </h3>
 <h3>Button Command List</h3>
@@ -103,7 +103,7 @@ Standalone Mode is when you use Wave without Softwave.
 
 To enter the Standalone Mode editor, press this icon. 
 
-![](/src/assets/images/article_360013792738_image_8.png)
+![](/images/article_360013792738_image_8.png)
 
 The changes you make are saved to Wave automatically.
 
@@ -115,7 +115,7 @@ If you have the Wavefront receiver, you can edit how Wave behaves when connected
 
 To enter the Wavefront editor, press this icon. 
 
-![](/src/assets/images/article_360013792738_image_9.png)
+![](/images/article_360013792738_image_9.png)
 
 The changes you make are saved to Wave automatically.
 

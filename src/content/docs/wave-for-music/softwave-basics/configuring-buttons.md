@@ -12,7 +12,7 @@ These are the default settings for Wave within Softwave.
 
 These settings can be customized to your own liking in [Wave's configuration panel](/wave-for-music/settings/configuration-panel/).
 
-![](/src/assets/images/article_360014087078_image_0.png)
+![](/images/article_360014087078_image_0.png)
 
 Wave has 3 buttons; Up, Middle and Down. The Middle button activates and deactivates Wave.
 Simply put you can deactivate Wave so you can scratch your nose without affecting sound every time you do it.
