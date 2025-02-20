@@ -18,8 +18,7 @@ When sending 14-bit messages, the MSB is sent as usual and the LSB should follow
 
 Standard 7-bit MIDI messages work just as well.
 
-<details>
-<summary>Outputs</summary>
+### Outputs
 
 The first four outputs (16-19) are connected to a 16-bit DAC and have a range of +/- 5V.
 
@@ -27,28 +26,18 @@ The last two outputs (20 and 21) can only be toggled high/low. CC messages with 
 
 In addition to these fixed controller values, Wavefront also listens to note on/off messages, pitchbend and channel pressure.
 
-</details>
-<details>
-<summary>Gate</summary>
+### Gate
 
 The Gate output is toggled high for any note on events, and low once all notes are released.
 
-</details>
-<details>
-<summary>MIDI Note</summary>
+### MIDI Note
 
 MIDI note numbers are translated to 1V/octave CV and routed to the Tilt output, and the note velocity is routed to Pan.
 
-</details>
-<details>
-<summary>Channel Pressure</summary>
+### Channel Pressure
 
 Channel pressure messages are routed to the Roll output.
 
-</details>
-<details>
-<summary>Pitchbend</summary>
+### Pitchbend
 
 Pitchbend messages get routed to the Vibrato output.
-
-</details>

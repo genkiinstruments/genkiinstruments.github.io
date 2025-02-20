@@ -5,8 +5,7 @@ created_at: "2020-10-07T16:14:46Z"
 updated_at: "2023-10-31T11:55:36Z"
 ---
 
-<details>
-<summary>I can't turn my Wave on. No LEDs light up.</summary>
+### I can't turn my Wave on. No LEDs light up.
 
 Check if Wave can be discovered by your computer. If your computer indicates that it's connected, please disconnect and wait two minutes. Then try powering Wave on again.
 
@@ -16,18 +15,13 @@ If your computer can't discover Wave, please try charging it for at least 20 min
 :::
 
 
-</details>
-
-<details>
-<summary>Wave is connected to my computer, but Softwave does not recognize it.</summary>
+### Wave is connected to my computer, but Softwave does not recognize it.
 
 1. Disconnect Wave from Softwave by navigating to Menu-&gt;Connect Bluetooth devices and press the "x" behind the connected Wave.
 2. Restart the computer.
 3. Then reconnect Wave.
 
-</details>
-<details>
-<summary>How can I minimize the latency?</summary>
+### How can I minimize the latency?
 
 If using Softwave, head to Menu → Audio/MIDI Settings and reduce the audio buffer size.
 
@@ -39,10 +33,7 @@ Most DAWs have a setting for this in their preferences as well.
 
 
 
-</details>
-
-<details>
-<summary>I can't update the firmware of my Wave through Softwave.</summary>
+### I can't update the firmware of my Wave through Softwave.
 
 Make sure you have the latest version of Softwave. If the firmware update repeatedly fails, you can perform the update manually via Android/iOS.
 
@@ -74,16 +65,11 @@ Make sure you have the latest version of Softwave. If the firmware update repeat
 
 ![](/images/article_360014089577_image_0.jpg)
 
-</details>
-
-<details>
-<summary>One or more functions in my preset are not working.</summary>
+### One or more functions in my preset are not working.
 
 Make sure the function is not muted and no other functions in the preset are soloed [-&gt; see instructions](/wave-for-music/functions/overview/).
 
-</details>
-<details>
-<summary>I have multiple Waves, but my DAW can only see one of them.</summary>
+### I have multiple Waves, but my DAW can only see one of them.
 
 This might happen due to naming conflicts.
 
@@ -91,12 +77,9 @@ This might happen due to naming conflicts.
 2. Disconnect your Waves from Softwave by navigating to Menu-&gt;Connect Bluetooth Devices and press the "x" behind the connected Waves.
 3. Turn the rings off and back on, then reconnect them in Softwave. They should now have unique names.
 
-</details>
-
 ## Windows
 
-<details>
-<summary>Wave is not listed as a MIDI input in DAWs on my Windows 10 machine.</summary>
+### Wave is not listed as a MIDI input in DAWs on my Windows 10 machine.
 
 Softwave uses virtual MIDI driver software provided by [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html). To use Wave as a MIDI device in your DAW, you need to install loopMIDI - if you haven't already. The software is free, and has proven to be very reliable.
 
@@ -110,25 +93,17 @@ In Softwave, go to Menu → About and check that Virtual MIDI driver version is 
 
 ![](/images/article_360014089577_image_1.jpg)
 
-</details>
-
-<details>
-<summary>Wave gets in a strange connect/disconnect loop with the system (lights flashing on/off).</summary>
+### Wave gets in a strange connect/disconnect loop with the system (lights flashing on/off).
 
 This seems to happen if you've previously paired Wave through Windows's system settings. Pairing is not necessary, and removing Wave through the system's Bluetooth settings will fix the issue. You can still connect through Softwave just fine.
 
-</details>
-<details>
-<summary>I'm experiencing a slow or jittery connection.</summary>
+### I'm experiencing a slow or jittery connection.
 
 If you're experiencing a slow or jittery connection, that might be due to old or outdated Bluetooth drivers. Make sure you have the latest drivers installed for your system. If the drivers are up to date and you still experience issues, consider using an external USB dongle instead. We've found [this dongle](https://www.iogear.com/product/GBU521/) to work best in our tests.
 
-</details>
-
 ## macOS
 
-<details>
-<summary>There is no sound coming from Softwave.</summary>
+### There is no sound coming from Softwave.
 
 1. Head to Menu → Audio/MIDI Settings... and make sure the correct audio output is selected.
 2. Hit "Test" and you should hear a test tone to confirm.
@@ -137,9 +112,9 @@ If you're experiencing a slow or jittery connection, that might be due to old or
 5. You should hear sound.
 6. You can also use an external MIDI controller (just make sure it's selected as a MIDI input in Audio/MIDI Settings).
 
-</details>
-<details>
-<summary>I can't connect Wave to my macOS device. I get an error saying: MIDI over Bluetooth is not available because it requires MIDI services to operate in 64-bit mode.</summary>
+### I can't connect Wave to my macOS device. 
+
+I get an error saying: MIDI over Bluetooth is not available because it requires MIDI services to operate in 64-bit mode.
 
 Remove any drivers listed in the error message and restart the computer. If you get a message saying "The 32-bit driver list is unavailable".
 
@@ -150,9 +125,7 @@ Remove any drivers listed in the error message and restart the computer. If you 
 5. If there are any files in these directories, try removing them (or moving them to a temporary folder if you don't want to lose them).
 6. Then restart the computer and see if you can connect Wave.
 
-</details>
-<details>
-<summary>I'm having Bluetooth connection issues.</summary>
+### I'm having Bluetooth connection issues.
 
 Try deleting any Bluetooth Property List files that might be corrupted. To remove the .plist files:
 
@@ -164,5 +137,3 @@ Try deleting any Bluetooth Property List files that might be corrupted. To remov
 6. Type in: ~/Library/Preferences/ByHost
 7. Find com.apple.Bluetooth.xxx.plist file and delete it
 8. Turn Bluetooth on in your computer
-
-</details>

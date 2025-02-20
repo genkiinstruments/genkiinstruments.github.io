@@ -8,15 +8,10 @@ zendesk: 360027491477
 
 Use these shortcuts to control a few practical things in Softwave.
 
-<details>
-<summary>Key Shortcuts: macOS</summary>
+### Key Shortcuts: macOS
 
 ![](/images/shortcuts_mac.png)
 
-</details>
-<details>
-<summary>Key Shortcuts: Windows</summary>
+### Key Shortcuts: Windows
 
 ![](/images/shortcuts_win.png)
-
-</details>

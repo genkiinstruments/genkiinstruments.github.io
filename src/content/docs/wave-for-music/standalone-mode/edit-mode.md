@@ -19,46 +19,35 @@ Enter 'Edit mode' by doing a long press on the UP button. Exit 'Edit mode' the s
 
 You can MIDI Learn CC and Program Change values, manually change CC and note values, adjust movement range, sensitivity, output range and more.
 
-<details>
-<summary>Enter/Exit Edit Mode</summary>
+### Enter/Exit Edit Mode
 
 Enter 'Edit mode' by doing a long press on the UP button. Exit 'Edit mode' the same way.
 
 ![](/images/article_360013657538_image_0.png)
 
-</details>
-<details>
-<summary>Navigation</summary>
+### Navigation
 
 Move between screens by clicking the UP and DOWN button.
 
 ![](/images/article_360013657538_image_2.png)
 
-</details>
-<details>
-<summary>Enter/Exit Submenus</summary>
+### Enter/Exit Submenus
 
 Enter a function's submenu by clicking the MIDDLE button. Exit a function's submenu by doing a long press on the UP button
 
 ![](/images/article_360013657538_image_3.png)
 
-</details>
-<details>
-<summary>Shortcut to MIDI Learn</summary>
+### Shortcut to MIDI Learn
 
 Shortcut to MIDI LEARN by doing a long press on the MIDDLE button in the main menu view.
 
 ![](/images/article_360013657538_image_4.png)
 
-</details>
-<details>
-<summary>Adjusting functions</summary>
+### Adjusting functions
 
 Adjust anything by clicking the MIDDLE button. Click again when finished.
 
 ![](/images/article_360013657538_image_5.png)
-
-</details>
 
 ## Main Menu
 Move between screens by clicking the UP and DOWN button.
@@ -67,8 +56,7 @@ Move between screens by clicking the UP and DOWN button.
 
 Overview of Preset's Functions
 
-<details>
-<summary>Details</summary>
+### Details
 
 Each preset holds up to 8 functions, and each function is represented by an icon.
 
@@ -76,9 +64,7 @@ A LED in the upper right corner indicates that the function has a dedicated CC n
 
 ![](/images/edit-mode-main-menu-details.png)
 
-</details>
-<details>
-<summary>RE/AB - Relative, Absolute</summary>
+### RE/AB - Relative, Absolute
 
 You can decide if a preset uses Relative (RE) or Absolute (AB) movements. The default state for Wave is Relative.
 
@@ -92,25 +78,19 @@ Click MIDDLE button to change.
 
 ![](/images/edit-mode-main-menu-reab.png)
 
-</details>
-<details>
-<summary>R/L - Right, Left</summary>
+### R/L - Right, Left
 
 Use this feature dependant on if you wear Wave on your left or right index finger. Click MIDDLE button to change.
 
 ![](/images/edit-mode-main-menu-rl.png)
 
-</details>
-<details>
-<summary>Ch - Channel</summary>
+### Ch - Channel
 
 Use this feature to change the preset's MIDI Channel. Click MIDDLE button to change. Use UP and DOWN buttons to find your channel of choice. Click MIDDLE button again when finished.
 
 ![](/images/edit-mode-main-menu-ch.png)
 
-</details>
-<details>
-<summary>PC - Program Change</summary>
+### PC - Program Change
 
 Use this feature to MIDI Learn a Program Change onto the preset. This way, every time you navigate to this particular preset it will send out a program change to your hardware device. Click MIDDLE button to activate MIDI Learn. Select the program change on your hardware device. It should register automatically.
 
@@ -127,8 +107,7 @@ Enter a function's submenu by clicking the MIDDLE button. Exit a function's subm
 
 Movement Range (Tilt, Pan &amp; Roll)
 
-<details>
-<summary>Details</summary>
+### Details
 
 Adjust the movement range of a function by clicking the MIDDLE button and then trace the desired range of it out in the air. Click the MIDDLE button again when finished.
 
@@ -140,9 +119,7 @@ You can for example start in the middle, trace upwards and then move past your s
 
 ![](/images/edit-mode-sub-menu-details.png)
 
-</details>
-<details>
-<summary>Movement Sensitivity (Vibrato)</summary>
+### Movement Sensitivity (Vibrato)
 
 You can change the sensitivity of the Vibrato by clicking the MIDDLE button and then adjust the sensitivity by using the UP and DOWN buttons.
 
@@ -150,9 +127,7 @@ The sensitivity block has 5 stages represented by lines. The more lines the bloc
 
 ![](/images/edit-mode-sub-menu-vibrato.png)
 
-</details>
-<details>
-<summary>Movement Direction (Tilt, Pan, Roll &amp; Vibrato)</summary>
+### Movement Direction (Tilt, Pan, Roll &amp; Vibrato)
 
 You can invert the movement direction by clicking the MIDDLE button on Wave. When you do the arrow should flip.
 
@@ -160,9 +135,7 @@ This will make the parameter you are controlling move in the opposite direction 
 
 ![](/images/edit-mode-sub-menu-direction.png)
 
-</details>
-<details>
-<summary>CC Value</summary>
+### CC Value
 
 You can adjust the CC value for each function. There are two ways possible to do this.
 
@@ -174,9 +147,7 @@ Or click the MIDDLE button to activate MIDI Learn. Simply turn a knob on your ha
 
 ![](/images/edit-mode-sub-menu-cc.png)
 
-</details>
-<details>
-<summary>Output Range (Tilt, Pan, Roll &amp; Vibrato)</summary>
+### Output Range (Tilt, Pan, Roll &amp; Vibrato)
 
 You can adjust each function's Output range. The default is 0-127 but you can change this number manually using the UP and DOWN buttons.
 
@@ -188,15 +159,11 @@ You can also use a parameter on your synth to adjust the number.
 
 ![](/images/edit-mode-sub-menu-out-range.png)
 
-</details>
-<details>
-<summary>Trigger Sensitivity (Tap)</summary>
+### Trigger Sensitivity (Tap)
 
 You can change the sensitivity of the Tap by clicking the MIDDLE button and then adjust the sensitivity by using the UP and DOWN buttons.
 
 The sensitivity block has 5 stages represented by lines. The more lines the block has the more sensitive the Tap is. Click the MIDDLE button again when finished.
 
 ![](/images/edit-mode-sub-menu-trigger-sens.png)
-
-</details>
 

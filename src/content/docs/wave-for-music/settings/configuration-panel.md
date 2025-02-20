@@ -10,8 +10,7 @@ To access Wave's configuration panel press the gear-icon behind a connected Wave
 
 ![](/images/article_360013792738_image_0.png)
 
-<details>
-<summary>Rename Wave</summary>
+## Rename Wave
 
 To rename Wave right-click on a connected "Wave", select 'Rename' and type in a new name.
 
@@ -19,9 +18,7 @@ Renaming Wave can come in handy when you have more than one Wave, or if you simp
 
 ![](/images/article_360013792738_image_1.png)
 
-</details>
-<details>
-<summary>Wave on Right or Left index finger</summary>
+## Wave on Right or Left index finger
 
 Depending on what you are doing it might come in handy to have Wave on your left index finger instead of the right one.
 
@@ -31,9 +28,7 @@ Wave is symmetrical so this is easily possible. In order to flip the screen as w
 
 ![](/images/article_360013792738_image_3.png)
 
-</details>
-<details>
-<summary>Activate Wave from Softwave</summary>
+## Activate Wave from Softwave
 
 Activating Wave from Softwave is made possible so one person can wear Wave and another one can control it.
 
@@ -41,9 +36,7 @@ Press this  icon.
 
 ![](/images/article_360013792738_image_4.png)
 
-</details>
-<details>
-<summary>Reset Wave's movements from Softwave</summary>
+## Reset Wave's movements from Softwave
 
 Resetting Wave's movements from Softwave is made possible so one person can wear Wave and another one can control it.
 
@@ -51,9 +44,7 @@ Press this icon.
 
 ![](/images/article_360013792738_image_5.png)
 
-</details>
-<details>
-<summary>Button configuration</summary>
+## Button configuration
 
 You can configure all buttons to your liking, using either a Click or a Long Press (or both).
 
@@ -73,18 +64,17 @@ You can configure all buttons to your liking, using either a Click or a Long Pre
 </tr>
 </tfoot>
 </table>
-<h3>Reset Button Configuration</h3>
+## Reset Button Configuration
 If you ever want to reset the button configuration to its default state press *Reset button configuration*.
 
 If you want to undo the resetting of the buttons you can use the undo command, cmd+z (macOS) or ctrl+z (Windows).
 
-<h3>Button Icons</h3>
+## Icons
 These icons identify which button you are configuring.
 
 ![](/images/article_360013792738_image_7.png)
 
-<h3> </h3>
-<h3>Button Command List</h3>
+## Button Command List
 Select a command from a drop down menu for each button;
 
 1. Next Preset - Navigates to the next preset within Softwave.
@@ -95,9 +85,7 @@ Select a command from a drop down menu for each button;
 6. Momentary activate - Activates Wave while holding the button.
 7. Show Battery - Shows the battery status of Wave.
 
-</details>
-<details>
-<summary>Standalone Mode editor</summary>
+## Standalone Mode editor
 
 Standalone Mode is when you use Wave without Softwave.
 
@@ -107,9 +95,7 @@ To enter the Standalone Mode editor, press this icon. 
 
 The changes you make are saved to Wave automatically.
 
-</details>
-<details>
-<summary>Wavefront editor</summary>
+## Wavefront editor
 
 If you have the Wavefront receiver, you can edit how Wave behaves when connected to it.
 
@@ -118,5 +104,3 @@ To enter the Wavefront editor, press this icon. 
 ![](/images/article_360013792738_image_9.png)
 
 The changes you make are saved to Wave automatically.
-
-</details>

@@ -8,8 +8,7 @@ zendesk: 360027590498
 
 You find Softwave's menu in the top left corner of your screen.
 
-<details>
-<summary>Audio/MIDI Settings</summary>
+### Audio/MIDI Settings
 
 In Audio/MIDI Settings you can:
 - Mute and unmute audio input.
@@ -22,36 +21,24 @@ In Audio/MIDI Settings you can:
 
 </ul>
 
-</details>
-<details>
-<summary>Scan for plugins</summary>
+### Scan for plugins
 
 You need to scan for the plugins on your computer for Softwave to know which plugins are available. You can scan for VST3 and AU plugins.
 
-</details>
-<details>
-<summary>Undo/Redo</summary>
+### Undo/Redo
 
 You can use Undo and Redo to undo or redo your last actions.
 
 You can also use cmd+z / cmd+shift+z (macOS) or ctrl+z / ctrl+shift+z (Windows) for the same results.
 
-</details>
-<details>
-<summary>Save</summary>
+### Save
 
 Saves the preset bank you're working within.
 
-</details>
-<details>
-<summary>New Preset Bank</summary>
+### New Preset Bank
 
 Create a blank preset bank.
 
-</details>
-<details>
-<summary>Load Default Preset Bank</summary>
+### Load Default Preset Bank
 
 Load the original Preset Bank that Softwave came with.
-
-</details>

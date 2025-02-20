@@ -8,20 +8,18 @@ sidebar:
   order: 3
 ---
 
-<h3>Wave
+## Wave
 
 ![](/images/article_360014169437_image_0.png)
 
-Preset Bank
+## Preset Bank
 
 ![](/images/article_360014169437_image_1.png)
 
-Preset
+## Preset
 
 ![](/images/article_360014169437_image_2.png)
 
-Functions within a preset
+## Functions within a preset
 
 ![](/images/article_360014169437_image_3.png)
-
-</h3>

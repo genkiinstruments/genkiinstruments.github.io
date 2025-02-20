@@ -14,19 +14,14 @@ As a default Wave only has one preset in Standalone mode and the CC numbers Wave
 
 You can configure how Wave behaves in Standalone mode, creating presets and customising everything to your liking, by using[ Softwave's Standalone mode editor](/wave-for-music/standalone-mode/standalone-mode-editor/), on your mac or windows computer.
 
-<details>
-<summary>Standalone Mode default values</summary>
+### Standalone Mode default values
 
 ![](/images/article_360013715117_image_0.png)
 
-</details>
-<details>
-<summary>Default button settings</summary>
+### Default button settings
 
 Wave has 3 buttons you can reach with your thumb. Each button has a certain function.
 
 ![](/images/article_360013715117_image_1.png)
-
-</details>
 
 The LED display indicates whether Wave is active or not. A stable horizontal line indicates that Wave is inactive while interactive horizontal and vertical lines indicate that Wave is actively sending data to your device.

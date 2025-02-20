@@ -10,8 +10,7 @@ sidebar:
 
 Mapping Wave to parameters in apps can vary from one app to the other. These instructions are related to how you use Wave when mapping and not how you enable MIDI mapping or select parameters to map within your app of choice.
 
-<details>
-<summary>Mapping to an app: Movements, Vibrato and Tap</summary>
+### Mapping to an app: Movements, Vibrato and Tap
 
 1. With MIDI mapping enabled in your app, select the parameter you want to map.
 2. Enter Edit Mode on Wave (hold Up button) and navigate to the function you want to map - each represented by its icon. Edit Mode solos each function so Wave only sends the CC number for that particular function.
@@ -19,12 +18,8 @@ Mapping Wave to parameters in apps can vary from one app to the other. These ins
 4. Repeat for other functions.
 5. Disable MIDI mapping in your app and exit Edit Mode (hold Up button again) when done.
 
-</details>
-<details>
-<summary>Mapping to your app: Click</summary>
+### Mapping to your app: Click
 
 1. With MIDI mapping enabled in your app, select the parameter you want to map.
 2. Press the button on Wave assigned to the Click Function (Default is the Down button).
 3. Disable MIDI mapping in your app.
-
-</details>

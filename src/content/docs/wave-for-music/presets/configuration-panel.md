@@ -12,8 +12,7 @@ At the top of every Preset you'll find the Preset Configuration Panel.
 
 There you can configure the preset to your liking.
 
-<details>
-<summary>Preset name</summary>
+### Preset name
 
 On the left side of the panel you'll see the preset number and preset name. To rename the preset; click the Preset name. You can now write a new name. Press Enter when done or click with the mouse cursor outside the box.
 
@@ -21,9 +20,7 @@ Renaming Presets to a descriptive name can help organise your workflow; "Recordi
 
 ![](/images/article_360013786038_image_1.gif)
 
-</details>
-<details>
-<summary>Selecting a plugin</summary>
+### Selecting a plugin
 
 Each preset can host its own plugin (VST3/AU). This way it’s easy to move between plugins and sounds. To select a plugin click the box where it reads "Select Plugin". 
 
@@ -31,9 +28,7 @@ If the preset is already hosting a plugin the box will read the name of that par
 
 ![](/images/article_360013786038_image_2.gif)
 
-</details>
-<details>
-<summary>Opening a plugin</summary>
+### Opening a plugin
 
 To see the plugin your preset is hosting press this icon.
 
@@ -43,17 +38,13 @@ For plugins to automatically open when you navigate to a preset press this icon.
 
 ![](/images/article_360013786038_image_4.gif)
 
-</details>
-<details>
-<summary>Auto activating a Preset </summary>
+### Auto activating a Preset 
 
 Select this icon if you want Wave to activate automatically when you navigate to that particular preset. This feature is default in all new presets.
 
 ![](/images/article_360013786038_image_5.gif)
 
-</details>
-<details>
-<summary>Relative vs Absolute</summary>
+### Relative vs Absolute
 
 Within each preset you can decide if Wave uses Relative (Rel) or Absolute (Abs) movements. The default state for Wave is Relative.
 
@@ -65,20 +56,14 @@ Absolute is stuck in space, Relative moves with you.
 
 ![](/images/article_360013786038_image_6.gif)
 
-</details>
-<details>
-<summary>MIDI channel</summary>
+### MIDI channel
 
 You can select a MIDI Channel for each preset. Press the MIDI icon in the top right corner of Softwave. Change the number for the channel by pressing the number and selecting from the list. The default is Channel 1.
 
 ![](/images/article_360013786038_image_7.png)
 
-</details>
-<details>
-<summary>Program Change</summary>
+### Program Change
 
 You can set a Program Change for each preset. This way, every time you navigate to that particular preset, it will send out the program change. Select the MIDI icon in the top right corner of Softwave to set the Program Change, Bank MSB and Bank LSB.
 
 ![](/images/article_360013786038_image_8.png)
-
-</details>
