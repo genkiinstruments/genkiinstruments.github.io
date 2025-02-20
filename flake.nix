@@ -1,7 +1,6 @@
 {
-  description = "Simple flake with a devshell";
+  description = "Flake for Genki Documentation";
 
-  # Add all your dependencies here
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-unstable";
     blueprint.url = "github:numtide/blueprint";
@@ -9,6 +8,14 @@
     treefmt-nix.url = "github:numtide/treefmt-nix";
   };
 
-  # Load the blueprint
-  outputs = inputs: inputs.blueprint { inherit inputs; };
+  outputs =
+    inputs:
+    inputs.blueprint {
+      inherit inputs;
+      prefix = "nix/";
+      systems = [
+        "aarch64-darwin"
+        "x86_64-linux"
+      ];
+    };
 }
