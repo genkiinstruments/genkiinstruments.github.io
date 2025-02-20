@@ -9,11 +9,9 @@ updated_at: "2023-10-31T11:55:36Z"
 
 Check if Wave can be discovered by your computer. If your computer indicates that it's connected, please disconnect and wait two minutes. Then try powering Wave on again.
 
-  
 :::caution
 If your computer can't discover Wave, please try charging it for at least 20 minutes and try powering it on again. If the problem persists, please reach out to us via [email](mailto:wave@genkiinstruments.com).
 :::
-
 
 ### Wave is connected to my computer, but Softwave does not recognize it.
 
@@ -31,28 +29,28 @@ Setting this value too low can cause audio distortion.
 Most DAWs have a setting for this in their preferences as well.
 :::
 
-
-
 ### I can't update the firmware of my Wave through Softwave.
 
 Make sure you have the latest version of Softwave. If the firmware update repeatedly fails, you can perform the update manually via Android/iOS.
 
 ##### Manual Firmware Update (iOS)
+
 - **To begin, get nRF Toolbox for your iOS device**
-[nRF Toolbox for iOS](https://apps.apple.c/src/app/nrf-toolbox/id820906058)
+  [nRF Toolbox for iOS](https://apps.apple.c/src/app/nrf-toolbox/id820906058)
 - Now download [this firmware zip package](https://github.com/genkiinstruments/releases/releases/tag/wave_firmware) to your iOS device. Select "Open in nRF Toolbox".
 - Turn Wave on, find it and select it in the list of devices in nRF Toolbox.
 - Tap "wave_firmware.zip".
 - Press "Update".
 - Wait for the update to complete, Wave should restart automatically.
 
-</ul>
-
 ##### Manual Firmware Update (Android)
+
 - Before you start, please download [this firmware zip package](https://github.com/genkiinstruments/releases/releases/tag/wave_firmware) to your Android or iOS device.
 - **To begin, get nRF Toolbox for your Android device**
-[nRF Toolbox for Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrftoolbox&amp;hl=en&amp;gl=US)
-- **Then follow these steps**
+  [nRF Toolbox for Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrftoolbox&hl=en&gl=US)
+
+**Then follow these steps**
+
 1. Open nRF Toolbox
 2. Tap "DFU"
 3. Tap "Select File" and load the zip file you downloaded. If you're prompted, select "Distribution packet (ZIP)".
@@ -60,8 +58,6 @@ Make sure you have the latest version of Softwave. If the firmware update repeat
 5. Tap "Select Device" and look under "Available Devices"
 6. Find Wave and select it
 7. Tap "Upload" and wait for the update to finish
-
-</ul>
 
 ![](/images/article_360014089577_image_0.jpg)
 
@@ -86,6 +82,7 @@ Softwave uses virtual MIDI driver software provided by [loopMIDI](https://www.to
 **Note that your browser may prompt a warning when trying to download loopMIDI, but we assure you that it's completely safe.**
 
 ##### Troubleshooting virtual MIDI
+
 In Softwave, go to Menu → About and check that Virtual MIDI driver version is 1.3.0.43.
 
 1. If you don’t see the driver version, please install [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) and restart Softwave. Note: You don’t need to interact in any other way with loopMIDI, it is just required for the MIDI driver.
@@ -112,7 +109,7 @@ If you're experiencing a slow or jittery connection, that might be due to old or
 5. You should hear sound.
 6. You can also use an external MIDI controller (just make sure it's selected as a MIDI input in Audio/MIDI Settings).
 
-### I can't connect Wave to my macOS device. 
+### I can't connect Wave to my macOS device.
 
 I get an error saying: MIDI over Bluetooth is not available because it requires MIDI services to operate in 64-bit mode.
 

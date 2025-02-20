@@ -8,7 +8,7 @@ sidebar:
   order: 2
 ---
 
-import { YouTube } from 'astro-embed';
+import { YouTube } from "astro-embed";
 
 <YouTube id="UrhpFpQ9i4I" />
 
@@ -22,6 +22,7 @@ Although Wave can work with your MIDI instrument straight out of the box, it's r
 4. Connect Wave to Softwave by clicking "Connect Wave" in the top left corner.
 
 ### Step 2. Connect WIDI Master to your instrument
+
 Now connect WIDI Master to your instrument of choice. Make sure Wave is connected to Softwave because otherwise it will connect straight to WIDI Master when you plug it in.
 
 The WIDI Master consists of two units.
@@ -33,9 +34,10 @@ The WIDI Master consists of two units.
 For more information on WIDI Master see the [WIDI Master user manual (PDF)](https://www.cme-pro.com/wp-content/uploads/20/src/WIDI-MASTER-Owners-manual_v04_en.pdf)
 
 ## Step 3. Connect WIDI Master to Softwave
+
 Softwave supports routing Wave's MIDI input to a specified MIDI output. This can come in handy when setting up presets for hardware synths or effects.
 
-import { Tabs, TabItem } from '@astrojs/starlight/components';
+import { Tabs, TabItem } from "@astrojs/starlight/components";
 
 <Tabs>
   <TabItem label="macOS">
@@ -50,6 +52,7 @@ You need to connect Wave to Softwave before giving power to WIDI Master (it turn
 7. Exit the window. Your changes save automatically.
 
 ![](/images/article_360013655018_image_0.png)
+
   </TabItem>
   <TabItem label="Windows">
 You need to connect Wave to Softwave before giving power to WIDI Master (it turns on as soon as it's given power), otherwise Wave and WIDI Master will connect to each other and won't show up in Softwave.
@@ -65,11 +68,12 @@ You need to connect Wave to Softwave before giving power to WIDI Master (it turn
 9. Exit the window. Your changes save automatically.
 
 ![](/images/article_360013655018_image_0.png)
+
   </TabItem>
 </Tabs>
 
-
 ### Step 4. Enter the Standalone mode editor
+
 With Wave connected to Softwave, enter the Standalone mode editor.
 
 It can be accessed by selecting the square icon in the top left corner of Softwave.
@@ -83,22 +87,18 @@ It can be accessed by selecting the square icon in the top left corner of Softwa
 
 The Standalone mode editor supports MIDI Learn, which allows you to turn physical knobs on your instrument and map them straight to Wave.
 
-1. Make sure you're in the Standalone Mode Editor. 
+1. Make sure you're in the Standalone Mode Editor.
 
-![](/images/article_360013555437_image_0.png)
-2. Add a function (Tilt, Pan, Roll, Vibrato, Tap or Click) in Softwave you want to use with your instrument.
-3. Navigate to the 'MIDI' icon in the bottom right corner of the function. 
+![](/images/article_360013555437_image_0.png) 2. Add a function (Tilt, Pan, Roll, Vibrato, Tap or Click) in Softwave you want to use with your instrument. 3. Navigate to the 'MIDI' icon in the bottom right corner of the function. 
 
-![](/images/article_360013555437_image_1.png)
-4. Select 'Learn'.
-5. Move a knob on your instrument. The parameter should register.
-6. Repeat for other functions.
+![](/images/article_360013555437_image_1.png) 4. Select 'Learn'. 5. Move a knob on your instrument. The parameter should register. 6. Repeat for other functions.
 
 ![](/images/article_360013555437_image_2.png)
 
 When you make changes in the Standalone mode editor, the changes are saved immediately to Wave. The preset configuration is exactly the same as in the main view, the only difference being that the main view presets do not get saved to Wave.
 
 ### Step 6. MIDI Learn Program Change
+
 You can MIDI Learn a Program Change to each preset on Wave, which allows you to change programs on your instrument when you switch between presets.
 
 So basically preset 1 can have one sound going on but if you navigate to preset 2 by pressing the DOWN button on Wave, the instrument will change sounds.
@@ -111,21 +111,19 @@ So basically preset 1 can have one sound going on but if you navigate to preset 
 6. Repeat for other presets.
 
 ![](/images/article_360013555477_image_0.png)
+
 ## Step 7. Connect Wave to WIDI Master
+
 If you're happy with the configuration you've made in Softwave, now is the time to disconnect from Softwave by turning Wave off (hold UP and DOWN button) and connect Wave straight to your instrument.
 
 Make sure you disconnect Wave and WIDI Master from your computer. Wave can only be connected to one host at a time, either your computer or WIDI Master.
+
 1. Disconnect WIDI Master from your computer; in Softwave navigate to Menu-&gt;Connect Bluetooth MIDI Devices. Press the "x" behind WIDI Master.
 
-**Note** that if you do not disconnect WIDI Master accordingly from Softwave (for example if you only cut off the power to WIDI Master) your computer will remember the connection and auto-connect to WIDI Master next time you turn it on.
-2. To disconnect Wave from your computer close Softwave.
+**Note** that if you do not disconnect WIDI Master accordingly from Softwave (for example if you only cut off the power to WIDI Master) your computer will remember the connection and auto-connect to WIDI Master next time you turn it on. 2. To disconnect Wave from your computer close Softwave.
 
-**Note** that next time you open Softwave it will remember Wave.
-3. Connect WIDI Master into an instrument. The large unit into MIDI Out and the small one to MIDI In.
-4. Make sure Wave is on and then turn your instrument on to give WIDI Master power.
-After you turn WIDI Master on it will search for a bluetooth device for a few seconds, after that it will try to connect to another source such as your computer. That's why it's recommended to turn Wave on before you turn on WIDI Master.
-5. Wave should connect automatically to WIDI Master.
-6. If nothing happens press the MIDDLE button on Wave. The MIDDLE button activates and deactivates Wave - which is a feature that allows you to move your hand around without affecting parameters.
+**Note** that next time you open Softwave it will remember Wave. 3. Connect WIDI Master into an instrument. The large unit into MIDI Out and the small one to MIDI In. 4. Make sure Wave is on and then turn your instrument on to give WIDI Master power.
+After you turn WIDI Master on it will search for a bluetooth device for a few seconds, after that it will try to connect to another source such as your computer. That's why it's recommended to turn Wave on before you turn on WIDI Master. 5. Wave should connect automatically to WIDI Master. 6. If nothing happens press the MIDDLE button on Wave. The MIDDLE button activates and deactivates Wave - which is a feature that allows you to move your hand around without affecting parameters.
 
 **If Wave does not connect:**
 

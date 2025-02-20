@@ -20,7 +20,7 @@ Then follow the same steps as before when you connected the first Wave.
 
 ### Changing Wave **A** to **B** and vice versa
 
-To change Wave **A** to **B** select Wave **A** and drag it down under **B**. 
+To change Wave **A** to **B** select Wave **A** and drag it down under **B**.
 
 The two connected Waves should change roles.
 
@@ -39,4 +39,3 @@ Repeat for all functions you want to map over to **B**.
 ### Identifying which Wave is which
 
 In the top left corner of Softwave press the name of the Wave you want to identify. The LED screen on that Wave will light up.
-

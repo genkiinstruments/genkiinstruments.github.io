@@ -10,11 +10,9 @@ sidebar:
 
 Wave has six functions that can be used individually or combined in any way you like. Each function has its own characteristics.
 
-
 :::tip[Mapping Movements to your DAW]
 
 In order to map functions from Softwave to your DAW, such as Ableton Live or Logic Pro, you need to attach a MIDI CC number to the function.
-
 
 You can assign any CC number, but make sure each function has an individual number.
 Softwave uses this number to communicate with your DAW.
@@ -30,7 +28,6 @@ Additionally you can assign:
 ![](/images/article_360013618957_image_0.gif)
 
 :::
-
 
 ![](/images/article_360013618957_image_1.png)
 

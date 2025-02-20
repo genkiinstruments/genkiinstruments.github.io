@@ -22,7 +22,7 @@ Renaming Presets to a descriptive name can help organise your workflow; "Recordi
 
 ### Selecting a plugin
 
-Each preset can host its own plugin (VST3/AU). This way it’s easy to move between plugins and sounds. To select a plugin click the box where it reads "Select Plugin". 
+Each preset can host its own plugin (VST3/AU). This way it’s easy to move between plugins and sounds. To select a plugin click the box where it reads "Select Plugin".
 
 If the preset is already hosting a plugin the box will read the name of that particular plugin.
 
@@ -38,7 +38,7 @@ For plugins to automatically open when you navigate to a preset press this icon.
 
 ![](/images/article_360013786038_image_4.gif)
 
-### Auto activating a Preset 
+### Auto activating a Preset
 
 Select this icon if you want Wave to activate automatically when you navigate to that particular preset. This feature is default in all new presets.
 

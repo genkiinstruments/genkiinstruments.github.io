@@ -50,6 +50,7 @@ Adjust anything by clicking the MIDDLE button. Click again when finished.
 ![](/images/article_360013657538_image_5.png)
 
 ## Main Menu
+
 Move between screens by clicking the UP and DOWN button.
 
 ![](/images/article_360013715937_image_0.png)
@@ -98,7 +99,6 @@ Use this feature to MIDI Learn a Program Change onto the preset. This way, every
 
 </details>
 
-
 ## Submenu
 
 Enter a function's submenu by clicking the MIDDLE button. Exit a function's submenu by doing a long press on the UP button.
@@ -143,7 +143,7 @@ Either click the MIDDLE button and use the UP and DOWN buttons to change the num
 
 Or click the MIDDLE button to activate MIDI Learn. Simply turn a knob on your hardware device and its CC number should register automatically.
 
-*Pro Tip - You can shortcut your way to MIDI Learn in the main menu by holding the MIDDLE button.
+\*Pro Tip - You can shortcut your way to MIDI Learn in the main menu by holding the MIDDLE button.
 
 ![](/images/edit-mode-sub-menu-cc.png)
 
@@ -166,4 +166,3 @@ You can change the sensitivity of the Tap by clicking the MIDDLE button and then
 The sensitivity block has 5 stages represented by lines. The more lines the block has the more sensitive the Tap is. Click the MIDDLE button again when finished.
 
 ![](/images/edit-mode-sub-menu-trigger-sens.png)
-

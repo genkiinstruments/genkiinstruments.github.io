@@ -10,11 +10,11 @@ sidebar:
 
 To connect Wave make sure it is turned on. You turn Wave on by pressing its Middle button. Also make sure Bluetooth is turned on in your device.
 
-import { Tabs, TabItem } from '@astrojs/starlight/components';
+import { Tabs, TabItem } from "@astrojs/starlight/components";
 
 <Tabs>
-  <TabItem label="iOS">
-You can connect Wave to your iPad and iPhone. 
+<TabItem label="iOS">
+You can connect Wave to your iPad and iPhone.
 
 1. Turn Wave on. Make sure Bluetooth is turned on on your device.
 2. Navigate to the app you want to use Wave with.
@@ -25,17 +25,20 @@ You can connect Wave to your iPad and iPhone.
 :::caution
 Wave works on an app-to-app basis so you need to connect Wave through the application you want to use it with - not through the regular Bluetooth Settings.
 :::
-  </TabItem>
-  <TabItem label="Android">
-1. Turn Wave on. Make sure Bluetooth is turned on on your device.
-2. Navigate to the system settings (gear icon).
-3. Select Connected Devices and select Bluetooth.
-4. Select Pair new device.
-5. You should see Wave on the list. Press it to connect it.
-6. Once your Bluetooth MIDI device is paired, it’ll show up in the list of Paired devices.
-7. Now go over to the application you want to use Wave with (as long as it can send MIDI) and map the functions to parameters.
-  </TabItem>
-  <TabItem label="WIDI Master">
+
+</TabItem>
+
+<TabItem label="Android">
+  1. Turn Wave on. Make sure Bluetooth is turned on on your device. 2. Navigate
+  to the system settings (gear icon). 3. Select Connected Devices and select
+  Bluetooth. 4. Select Pair new device. 5. You should see Wave on the list.
+  Press it to connect it. 6. Once your Bluetooth MIDI device is paired, it’ll
+  show up in the list of Paired devices. 7. Now go over to the application you
+  want to use Wave with (as long as it can send MIDI) and map the functions to
+  parameters.
+</TabItem>
+
+<TabItem label="WIDI Master">
 1. The WIDI Master consists of two units. The bigger unit connects to the MIDI OUT port of your instrument, and the smaller unit connects to MIDI IN.
 2. Turn Wave on and keep it close to WIDI Master.
 3. Now turn your instrument on, or plug WIDI Master into an instrument that is already turned on.
@@ -48,7 +51,8 @@ Wave works on an app-to-app basis so you need to connect Wave through the applic
 1. Try unplugging WIDI Master and plugging it back in
 2. Try turning your instrument on and off
 3. Make sure neither device is connected to anything else, for example your computer or Wavefront.
-:::
+   :::
 
-  </TabItem>
+</TabItem>
+
 </Tabs>

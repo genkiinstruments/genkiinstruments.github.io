@@ -9,7 +9,7 @@ sidebar:
 ---
 
 Softwave holds one Preset Bank at a time.
-You can save and load preset banks so you can store multiple banks and even share them with others. 
+You can save and load preset banks so you can store multiple banks and even share them with others.
 
 ## Saving a Preset Bank
 

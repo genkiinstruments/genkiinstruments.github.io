@@ -32,7 +32,7 @@ Wave is symmetrical so this is easily possible. In order to flip the screen as w
 
 Activating Wave from Softwave is made possible so one person can wear Wave and another one can control it.
 
-Press this  icon. 
+Press this  icon.
 
 ![](/images/article_360013792738_image_4.png)
 
@@ -40,7 +40,7 @@ Press this  icon.
 
 Resetting Wave's movements from Softwave is made possible so one person can wear Wave and another one can control it.
 
-Press this icon. 
+Press this icon.
 
 ![](/images/article_360013792738_image_5.png)
 
@@ -70,11 +70,13 @@ If you ever want to reset the button configuration to its default state press *R
 If you want to undo the resetting of the buttons you can use the undo command, cmd+z (macOS) or ctrl+z (Windows).
 
 ## Icons
+
 These icons identify which button you are configuring.
 
 ![](/images/article_360013792738_image_7.png)
 
 ## Button Command List
+
 Select a command from a drop down menu for each button;
 
 1. Next Preset - Navigates to the next preset within Softwave.

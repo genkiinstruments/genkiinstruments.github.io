@@ -11,6 +11,6 @@ This means Wavefront is in firmware update mode. This mode can be entered by hol
 
 ### Wave and Wavefront are paired successfully but there is no CV coming from the module.
 
-Make sure Wave is active by pressing the middle button. You should see the lines on the LED display move in accordance with your movements. 
+Make sure Wave is active by pressing the middle button. You should see the lines on the LED display move in accordance with your movements.
 
 If you see the lines moving but still don't have CV coming from Wavefront, make sure you have updated Wave to the latest available firmware (through Softwave).

@@ -11,6 +11,7 @@ You find Softwave's menu in the top left corner of your screen.
 ### Audio/MIDI Settings
 
 In Audio/MIDI Settings you can:
+
 - Mute and unmute audio input.
 - Select the preferred audio output.
 - Select an input device.
@@ -18,8 +19,6 @@ In Audio/MIDI Settings you can:
 - Change the Audio buffer Size.
 - Select active MIDI inputs.
 - Test if the sound is working properly.
-
-</ul>
 
 ### Scan for plugins
 

@@ -13,6 +13,6 @@ updated_at: "2021-04-09T13:56:23Z"
 
 ### My Widi Master does not receive MIDI when paired directly with Wave
 
-Please try upgrading the firmware for your Widi Master and try again. 
+Please try upgrading the firmware for your Widi Master and try again.
 
 <a href="https://www.cme-pro.com/easy-fix-for-widi-app-and-firmware-update/">See here for instructions on how to upgrade the Widi Master firmware</a>.

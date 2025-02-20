@@ -14,6 +14,4 @@ In order to register a command, simply press the button once.
 
 ![](/images/article_4411050170001_image_0.png)
 
-
-
 Each button can be customized to your liking in the Wave for Work application.

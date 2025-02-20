@@ -15,5 +15,3 @@ Softwave holds one Preset Bank at a time.
 - A preset bank is a bank of presets. Each preset bank can hold endless amounts of presets.
 - A [preset](/wave-for-music/presets/configuration-panel) is a combination of functions that each has a certain purpose. Each preset can hold up to 8 functions.
 - A [function](/wave-for-music/functions/overview/) is one of the following: Tilt, Pan, Roll, Vibrato, Tap or Click.
-
-</ul>

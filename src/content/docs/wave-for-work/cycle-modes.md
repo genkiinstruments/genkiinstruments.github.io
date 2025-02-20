@@ -15,7 +15,6 @@ In order to cycle modes:
 - Hold the upper button on Wave to go to the previous mode.
 - Hold the lower button on Wave to go to the next mode.
 
-
 ![](/images/article_4411039148177_image_0.png)
 
 You can turn this feature on and off in the settings tab within the Wave for Work application.

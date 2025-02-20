@@ -23,21 +23,23 @@ If you want to ship to a P.O. box, expect the shipment to come from the EU.
 
 Once your order has shipped from our warehouse, you will receive a number that you can use to track your order.
 
-
 ## Shipping fees/taxes etc.?
 
 Wave is stocked at warehouses in the USA and EU. If you are only ordering Wave and live within these countries, you should not pay any additional taxes.
 
-Note that if you're living in the UK you will need to pay import taxes. 
+Note that if you're living in the UK you will need to pay import taxes.
 
 ### Europe
+
 - GLS - Free shipping
 - DHL - $20
 
 ### USA
+
 - DHL Express Worldwide - Free shipping
 
 ### Rest of world
+
 - For orders over $90, DHL Express Worldwide - Free shipping
 - For orders under $90, DHL Express Worldwide - $20
 
@@ -51,6 +53,6 @@ If more than 15 business days have passed since you placed your order, please re
 
 ## I would like to return my purchase, how do I do that?
 
-If your order was placed 30-days before you would like to, you are of course free to do that. 
+If your order was placed 30-days before you would like to, you are of course free to do that.
 
 Please let us know about the return [via email](mailto:wave@genkiinstruments.com)., and ship your order to Genki Instruments ehf., 6th floor, Klapparstigur 25-27, 101 Reykjavik, Iceland.

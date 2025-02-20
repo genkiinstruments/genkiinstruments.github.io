@@ -3,7 +3,7 @@ title: "Reason"
 description: ""
 created_at: "2020-10-26T09:54:03Z"
 updated_at: "2020-10-26T14:16:40Z"
-zendesk: 360029876877 
+zendesk: 360029876877
 ---
 
 1. To make sure Wave works with Reason, navigate to Reason → Preferences → Control Surfaces. Look under "Easy MIDI Inputs" and make sure you can see Wave and it is enabled.

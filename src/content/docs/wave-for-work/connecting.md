@@ -17,6 +17,7 @@ sidebar:
 ![](/images/article_360018164158_image_0.png)
 
 ### Auto-connect feature
+
 Next time you turn Wave on it will automatically connect to your computer if you have this feature enabled.
 
 ![](/images/article_360018164158_image_1.png)

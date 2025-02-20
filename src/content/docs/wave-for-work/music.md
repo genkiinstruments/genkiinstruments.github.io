@@ -17,20 +17,20 @@ As a default the middle button lets you play and pause a track while the upper a
 Wave will control the last selected audio application, just like the audio adjustment buttons on your keyboard.
 
 ## Features
-* Start and stop audio
-* Change between songs
-* Mute audio
-* Adjust Volume by holding middle button and rotating hand
+
+- Start and stop audio
+- Change between songs
+- Mute audio
+- Adjust Volume by holding middle button and rotating hand
 
 ## Customizing buttons
+
 The default settings can easily be customized.
 
 1. Click the action you want to change. For example "Next Song".
 
-![](/images/article_360018049718_image_1.png)
-2. Select a new action from the list.
+![](/images/article_360018049718_image_1.png) 2. Select a new action from the list.
 
-![](/images/article_360018049718_image_2.png)
-3. You're all set. In this example, every time you click the middle button, it mutes your computer's audio.
+![](/images/article_360018049718_image_2.png) 3. You're all set. In this example, every time you click the middle button, it mutes your computer's audio.
 
 ![](/images/article_360018049718_image_3.png)

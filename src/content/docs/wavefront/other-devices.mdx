@@ -8,22 +8,23 @@ sidebar:
   order: 6
 ---
 
-**Make sure your device has Bluetooth turned on and Wavefront has power.** 
+**Make sure your device has Bluetooth turned on and Wavefront has power.**
 
 Your device is connected when Wavefront's LED shines a steady light.
 
-import { Tabs, TabItem } from '@astrojs/starlight/components';
+import { Tabs, TabItem } from "@astrojs/starlight/components";
 
 <Tabs>
-  <TabItem label="macOS">
+<TabItem label="macOS">
 1. Download Softwave by [clicking here.](https://github.com/genkiinstruments/releases/releases/download/softwave/Softwave_mac.zip)
 2. Install Softwave and open it.
 3. Go to Menu -&gt; Connect Bluetooth Device
 4. You should see Wavefront. Press to connect.
 5. To disconnect Wavefront navigate again to "Connect Bluetooth Device" and press the "x" behind Wavefront's name.
 6. **Note** that if you do not disconnect Wavefront accordingly from Softwave (for example if you only cut off the power to Wavefront) your computer will remember the connection and auto-connect to Wavefront next time you turn it on.
-  </TabItem>
-  <TabItem label="Windows">
+</TabItem>
+
+<TabItem label="Windows">
 1. Download Softwave by [clicking here.](https://github.com/genkiinstruments/releases/releases/download/softwave/Softwave_win.exe)
 2. When you open Softwave for the first time you might get a notification.
 3. **Please select Learn more and Run anyway.**
@@ -33,8 +34,10 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
 6. You should see Wavefront. Press to connect.
 7. To disconnect Wavefront navigate again to "Connect Bluetooth Device" and press the "x" behind Wavefront's name.
 8. **Note** that if you do not disconnect Wavefront accordingly from Softwave (for example if you only cut off the power to Wavefront) your computer will remember the connection and auto-connect to Wavefront next time you turn it on.
-  </TabItem>
-  <TabItem label="iOS">
+
+</TabItem>
+
+<TabItem label="iOS">
 You can connect Wavefront to your iOS device. It works on an app-to-app basis so you need to connect Wavefront through the application you want to use it with - not through the regular Bluetooth Settings.
 
 1. Turn Wavefront on. Make sure Bluetooth is turned on on your device.
@@ -44,7 +47,7 @@ You can connect Wavefront to your iOS device. It works on an app-to-app basis so
 5. If the app you're using does not provide an option to pair Bluetooth MIDI devices, download [this](https://apps.apple.c/src/app/midimittr/id925495245) application and use it to connect to Wavefront.
 
 :::tip
-To get started, try out our simple [TouchOSC](https://hexler.net/products/touchosc) layout. 
+To get started, try out our simple [TouchOSC](https://hexler.net/products/touchosc) layout.
 
 The layout consists of:
 
@@ -58,6 +61,7 @@ The layout consists of:
 ![](/images/article_360014731798_image_0.jpg)
 
 :::
+
   </TabItem>
 
   <TabItem label="Android">
@@ -72,16 +76,16 @@ The layout consists of:
 8. If the app you're using does not provide an option to pair Bluetooth MIDI devices, download [this](https://play.google.com/store/apps/details?id=com.mobileer.example.midibtlepairing) application and use it to connect to Wavefront.
 
 :::tip
- To get started, try out any of these tried and tested applications: 
+To get started, try out any of these tried and tested applications:
 
 1. [MIDI Controller (Volcano Mobile)](https://play.google.com/store/apps/details?id=net.volcanomobile.midi_controller)
 2. [MIDI Commander](https://play.google.com/store/apps/details?id=it.bordero.midicontroller)
 3. [MIDI Controller](https://play.google.com/store/apps/details?id=com.seemayr.midicontroller)
 4. [TouchDAW](https://play.google.com/store/apps/details?id=de.humatic.tdaw)
-:::
-
+   :::
 
   </TabItem>
+
   <TabItem label="Bluetooth MIDI">
 You can connect external Bluetooth MIDI (BLE MIDI) instruments to your Wavefront.
 
@@ -91,5 +95,6 @@ You can connect external Bluetooth MIDI (BLE MIDI) instruments to your Wavefront
 4. Your instrument is connected when Wavefront's LED shines a steady light.
 
 To be able to connect other BLE MIDI instruments other than Wave you need to [update Wavefront to its newest firmware](/wavefront/update).
+
   </TabItem>
 </Tabs>

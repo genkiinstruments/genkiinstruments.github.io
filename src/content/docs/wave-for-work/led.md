@@ -15,4 +15,3 @@ When you press the buttons on Wave, the LED screen lights up to let you know you
 ![](/images/wave-for-work-led.png)
 
 ![](/images/wave-for-work-led-volume.png)
-

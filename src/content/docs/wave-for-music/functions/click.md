@@ -24,23 +24,24 @@ Each button has an icon as shown below.
 
 There are 6 types of behaviors you can choose from
 
-* Click Trigger
-* Click Latching
-* Long Press Trigger
-* Long Press Latching
-* Momentary
-* Momentoggle
+- Click Trigger
+- Click Latching
+- Long Press Trigger
+- Long Press Latching
+- Momentary
+- Momentoggle
 
 #### 3. Attach a CC value, a note, or a key command
 
-* To attach a CC value or a note press the MIDI icon and select a number from the list
-* To attach a key command press "key" and write the key command you want to use
+- To attach a CC value or a note press the MIDI icon and select a number from the list
+- To attach a key command press "key" and write the key command you want to use
 
 ## Click Behavior
 
 You can choose between many types of behaviors for each button
 
 #### Click
+
 Click is when you press a button once to send a command.
 
 Click allows you to choose between **Trigger** and **Latching.** A drop down menu is available in the bottom left corner of the Click function window when either Click or Long Press is chosen.
@@ -54,6 +55,7 @@ Sends a short pulse with each click.
 Toggles the output, like a toggle switch.
 
 #### Long Press
+
 Long Press is when you press a button and hold it to send a command. The command mapped to Long Press is activated after half a second
 
 Long Press allows you to choose between **Trigger** and **Latching**. A drop down menu is available in the bottom left corner of the Click function window when either Click or Long Press is chosen.
@@ -67,9 +69,11 @@ Sends a short pulse with each click.
 Toggles the output, like a toggle switch.
 
 #### Momentary
+
 Momentary activates a command while you press the button down.
 
 #### Momentoggle
+
 Momentoggle is basically Click and Momentary combined. Clicking once toggles while holding the button down activates the momentary function.
 
 ## MIDI map Click: CC/Note
@@ -81,7 +85,6 @@ Momentoggle is basically Click and Momentary combined. Clicking once toggles whi
 ![](/images/article_360013785498_image_4.gif)
 
 ## Key commands / Shortcuts
-
 
 Click can send Key Commands (Shortcuts) to your DAW.
 
@@ -104,5 +107,3 @@ First time you use Key Commands on an Apple computer Softwave will ask for permi
 
 Note that Click functions automatically override the button configuration actions set in settings.
 :::
-
-

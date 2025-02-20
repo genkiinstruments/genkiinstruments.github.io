@@ -10,13 +10,11 @@ sidebar:
 
 In order to map functions from Softwave to your DAW (such as Ableton Live or Logic Pro) you need to attach a MIDI CC number to the function.
 
-
 :::tip
 You can assign **any** CC number, but make sure each function has an individual number.
 
 **Softwave uses this number to communicate with your DAW.**
 :::
-
 
 Some DAWs such as Cubase and Pro Tools have some of their CC values hard coded, so you can't use all of them.
 

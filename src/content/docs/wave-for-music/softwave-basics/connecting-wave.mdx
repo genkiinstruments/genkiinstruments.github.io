@@ -8,10 +8,10 @@ sidebar:
   order: 4
 ---
 
-import { Tabs, TabItem } from '@astrojs/starlight/components';
+import { Tabs, TabItem } from "@astrojs/starlight/components";
 
 <Tabs>
-  <TabItem label="macOS">
+<TabItem label="macOS">
 
 To connect Wave make sure it is turned on.
 You turn Wave on by pressing its Middle button.
@@ -24,7 +24,8 @@ After you connect Wave, Softwave remembers it and autoconnects to it next time y
 3. Close the window.
 4. Wave should be connected to your computer.
 5. To connect a 2nd Wave to Softwave press "B Connect Wave" and repeat steps 2-4
-  </TabItem>
+
+</TabItem>
 
   <TabItem label="Windows">
 To connect Wave make sure it is turned on.
@@ -40,10 +41,11 @@ After you connect Wave, Softwave remembers it and autoconnects to it next time y
 5. To connect a 2nd Wave to Softwave press "B Connect Wave" and repeat steps 2-4
 
 :::caution[Common issues]
-* If you have an older version of Softwave installed and already installed the KORG driver, it is preferable to completely remove the Korg BLE MIDI driver from the system. To do this head through Settings → Apps, search for "Korg BLE MIDI" and click "Uninstall". Verify that the driver is not present in Device Manager → Sound, video and game controllers or Device Manager → Software devices. Restart the computer.
-* If Wave gets in a strange connect/disconnect loop with the system (lights flashing on/off). This seems to happen if you've previously paired Wave through Windows's system settings. Pairing is not necessary, and removing Wave through the system's Bluetooth settings will fix the issue. You can still connect through Softwave just fine.
-* If you're experiencing a slow or jittery connection, that might be due to old or outdated Bluetooth drivers. Make sure you have the latest drivers installed for your system. If the drivers are up to date and you still experience issues, consider using an external USB dongle instead. We've found [this dongle](https://www.notion.so/genkiinstruments/Softwave-0-10-0-Release-Notes-5937264c2f8641e482bbd3b536f6d6e4#a2af2997e83b496998290713e0c0b6fb) to work best in our tests.
-:::
 
-  </TabItem>
+- If you have an older version of Softwave installed and already installed the KORG driver, it is preferable to completely remove the Korg BLE MIDI driver from the system. To do this head through Settings → Apps, search for "Korg BLE MIDI" and click "Uninstall". Verify that the driver is not present in Device Manager → Sound, video and game controllers or Device Manager → Software devices. Restart the computer.
+- If Wave gets in a strange connect/disconnect loop with the system (lights flashing on/off). This seems to happen if you've previously paired Wave through Windows's system settings. Pairing is not necessary, and removing Wave through the system's Bluetooth settings will fix the issue. You can still connect through Softwave just fine.
+- If you're experiencing a slow or jittery connection, that might be due to old or outdated Bluetooth drivers. Make sure you have the latest drivers installed for your system. If the drivers are up to date and you still experience issues, consider using an external USB dongle instead. We've found [this dongle](https://www.notion.so/genkiinstruments/Softwave-0-10-0-Release-Notes-5937264c2f8641e482bbd3b536f6d6e4#a2af2997e83b496998290713e0c0b6fb) to work best in our tests.
+  :::
+
+ </TabItem>
 </Tabs>

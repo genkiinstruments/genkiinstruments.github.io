@@ -11,6 +11,7 @@ sidebar:
 You can access the Wave for Work application **from your menu bar**. It is represented by the Genki logo.
 
 ## Viewing Actions
+
 **a.** The icon you see on the left represents the button on Wave the action is connected to.
 
 **b.** The text in the middle shows which action the button will perform when pushed.
@@ -20,13 +21,15 @@ You can access the Wave for Work application **from your menu bar**. It is repre
 ![](/images/article_360018185378_image_0.png)
 
 ## Modifying Actions
-**a.** To change the action for the button; select the text in the middle and either choose another action from the list, or create your own by selecting *Custom*.
+
+**a.** To change the action for the button; select the text in the middle and either choose another action from the list, or create your own by selecting _Custom_.
 
 **b.** To change the LED display that is shown on the ring when you press Wave's button; select the icon and create your custom LED display.
 
 ![](/images/article_360018185378_image_1.png)
 
 ## Gesture Actions
+
 **a.** To activate the Swipe Gesture press the icon for the middle button. The icon should change and have arrows on both sides of the ring.
 
 **b.** Choose an action for both the Left and the Rigth Swipe.
@@ -38,8 +41,9 @@ You can access the Wave for Work application **from your menu bar**. It is repre
 ![](/images/article_360018185378_image_2.png)
 
 ## Navigating Modes
+
 **a.** Navigate between the different modes by clicking the icons on the left.
 
-**b.** You can cycle between modes on the ring itself by holding the Up or Down button. To activate this feature go to *Settings* (gear icon on the bottom left) and enable *Cycle Between Modes*.
+**b.** You can cycle between modes on the ring itself by holding the Up or Down button. To activate this feature go to _Settings_ (gear icon on the bottom left) and enable _Cycle Between Modes_.
 
 ![](/images/article_360018185378_image_3.png)

@@ -6,7 +6,7 @@ updated_at: "2021-05-27T11:57:47Z"
 zendesk: 360029960318
 ---
 
-import { YouTube } from 'astro-embed';
+import { YouTube } from "astro-embed";
 
 <YouTube id="XUHvyeu0hKE" />
 
@@ -15,178 +15,179 @@ To connect Wave to Avid's Pro Tools, navigate to Setup → Peripherals... → MI
 There are several different ways to use Wave within Pro Tools.
 
 ## Mapping to Pro Tools' native Transport Controls and Parameters.
+
 1. Pro Tools has dedicated CC signals for a few native Transport Controls and Parameters.
 2. In Softwave make sure every function you want to use to control Pro Tools' native Transport Controls and Parameters has a dedicated CC number ([→ see Functions](/wave-for-music/functions/tilt-pan-roll/))
 3. You can use Tilt, Pan, Roll and Vibrato for the following ([→ see Functions](/wave-for-music/functions/tilt-pan-roll/)):
 
 <table class="table">
-<thead>
-<tr>
-<th>CC number</th>
-<th>Function</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CC 17 to CC 24</td>
-<td>Pan for tracks 1-8</td>
-</tr>
-<tr>
-<td>CC 33 to CC 40</td>
-<td>Faders on tracks 1-8</td>
-</tr>
-<tr>
-<td>CC 41</td>
-<td>Master Fader</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>CC number</th>
+      <th>Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CC 17 to CC 24</td>
+      <td>Pan for tracks 1-8</td>
+    </tr>
+    <tr>
+      <td>CC 33 to CC 40</td>
+      <td>Faders on tracks 1-8</td>
+    </tr>
+    <tr>
+      <td>CC 41</td>
+      <td>Master Fader</td>
+    </tr>
+  </tbody>
 </table>
 4. You can use the Click Function for the following
 
 <table class="table">
-<thead>
-<tr>
-<th>CC number</th>
-<th>Function</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CC 12</td>
-<td>Mute selected track</td>
-</tr>
-<tr>
-<td>CC 13</td>
-<td>Solo selected track</td>
-</tr>
-<tr>
-<td>CC 14</td>
-<td>Move bank left</td>
-</tr>
-<tr>
-<td>CC 15</td>
-<td>Move bank right</td>
-</tr>
-<tr>
-<td>CC 49 to CC 56</td>
-<td>Slider Buttons (Mute on tracks 1-8)</td>
-</tr>
-<tr>
-<td>CC 57</td>
-<td>Flip button</td>
-</tr>
-<tr>
-<td>CC 109</td>
-<td>Mode button</td>
-</tr>
-<tr>
-<td>CC 110</td>
-<td>Prev track</td>
-</tr>
-<tr>
-<td>CC 111</td>
-<td>Next track</td>
-</tr>
-<tr>
-<td>CC 113</td>
-<td>Loop button</td>
-</tr>
-<tr>
-<td>CC 116</td>
-<td>Stop</td>
-</tr>
-<tr>
-<td>CC 117</td>
-<td>Play</td>
-</tr>
-<tr>
-<td>CC 118</td>
-<td>Record</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>CC number</th>
+      <th>Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CC 12</td>
+      <td>Mute selected track</td>
+    </tr>
+    <tr>
+      <td>CC 13</td>
+      <td>Solo selected track</td>
+    </tr>
+    <tr>
+      <td>CC 14</td>
+      <td>Move bank left</td>
+    </tr>
+    <tr>
+      <td>CC 15</td>
+      <td>Move bank right</td>
+    </tr>
+    <tr>
+      <td>CC 49 to CC 56</td>
+      <td>Slider Buttons (Mute on tracks 1-8)</td>
+    </tr>
+    <tr>
+      <td>CC 57</td>
+      <td>Flip button</td>
+    </tr>
+    <tr>
+      <td>CC 109</td>
+      <td>Mode button</td>
+    </tr>
+    <tr>
+      <td>CC 110</td>
+      <td>Prev track</td>
+    </tr>
+    <tr>
+      <td>CC 111</td>
+      <td>Next track</td>
+    </tr>
+    <tr>
+      <td>CC 113</td>
+      <td>Loop button</td>
+    </tr>
+    <tr>
+      <td>CC 116</td>
+      <td>Stop</td>
+    </tr>
+    <tr>
+      <td>CC 117</td>
+      <td>Play</td>
+    </tr>
+    <tr>
+      <td>CC 118</td>
+      <td>Record</td>
+    </tr>
+  </tbody>
 </table>
-Additionally you can use Key Commands for Transport Control (→ [see Functions](/wave-for-music/functions/click)).
-
+Additionally you can use Key Commands for Transport Control (→ [see
+Functions](/wave-for-music/functions/click)).
 
 1. You can use the Momentary Click Function for the following
-([→ see Click Function](/wave-for-music/functions/click))
+   ([→ see Click Function](/wave-for-music/functions/click))
 
 <table class="table">
-<thead>
-<tr>
-<th>CC number</th>
-<th>Function</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CC 114</td>
-<td>Rewind</td>
-</tr>
-<tr>
-<td>CC 115</td>
-<td>Fast Forward</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>CC number</th>
+      <th>Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CC 114</td>
+      <td>Rewind</td>
+    </tr>
+    <tr>
+      <td>CC 115</td>
+      <td>Fast Forward</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Mapping to a Virtual Instrument Plugin
+
 1. In Softwave make sure every function you want to use to control Pro Tools' native Transport Controls and Parameters has a dedicated CC number
-([→ see Functions](/wave-for-music/functions/tilt-pan-roll/))
+   ([→ see Functions](/wave-for-music/functions/tilt-pan-roll/))
 2. As there are quite a lot of CC signals already taken by Pro Tools' native Transport Controls and Parameters you need to use one of the following CC signals:
 
 <table class="table">
-<thead>
-<tr>
-<th>CC number</th>
-<th>Function</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CC 0 to CC 11</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 16</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 25 to CC 32</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 42 to CC 48</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 58 to CC 63</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 65 to CC 73</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 79 to CC 108</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 112</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 119</td>
-<td>Customizable</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>CC number</th>
+      <th>Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CC 0 to CC 11</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 16</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 25 to CC 32</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 42 to CC 48</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 58 to CC 63</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 65 to CC 73</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 79 to CC 108</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 112</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 119</td>
+      <td>Customizable</td>
+    </tr>
+  </tbody>
 </table>
-3. In Softwave solo the function you want to map.
-4. Create an →Instrument Track← in Pro Tools.
-5. Open the virtual instrument of choice, e.g. Xpand!2 which comes with Pro Tools.
-6. Right-Click the parameter you want to control and select "Learn MIDI CC".
-7. Now De-Solo the function in Softwave. The function should be mapped to Pro Tools.
-
+3. In Softwave solo the function you want to map. 4. Create an →Instrument
+Track← in Pro Tools. 5. Open the virtual instrument of choice, e.g. Xpand!2
+which comes with Pro Tools. 6. Right-Click the parameter you want to control and
+select "Learn MIDI CC". 7. Now De-Solo the function in Softwave. The function
+should be mapped to Pro Tools.
 
 :::caution
 You won't be able to control the parameter with Wave unless you arm the Instrument Track.
@@ -194,71 +195,67 @@ You won't be able to control the parameter with Wave unless you arm the Instrume
 Not all Virtual Instrument Plugins allow for MIDI Learn. This completely depends on the developer of the plugin. If nothing happens when you Right-Click a parameter in the plugin you can not assign MIDI to it.
 :::
 
-
 ## Mapping to an Audio Plugin
+
 1. In Softwave make sure every function you want to use to control Pro Tools' native Transport Controls and Parameters has a dedicated CC number ([→ see Functions](/wave-for-music/functions/tilt-pan-roll/)).
 2. As there are quite a lot of CC signals already taken by Pro Tools' native Transport Controls and Parameters you need to use one of the following CC signals:
 
 <table class="table">
-<thead>
-<tr>
-<th>CC number</th>
-<th>Function</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CC 0 to CC 11</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 16</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 25 to CC 32</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 42 to CC 48</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 58 to CC 63</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 65 to CC 73</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 79 to CC 108</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 112</td>
-<td>Customizable</td>
-</tr>
-<tr>
-<td>CC 119</td>
-<td>Customizable</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>CC number</th>
+      <th>Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CC 0 to CC 11</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 16</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 25 to CC 32</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 42 to CC 48</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 58 to CC 63</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 65 to CC 73</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 79 to CC 108</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 112</td>
+      <td>Customizable</td>
+    </tr>
+    <tr>
+      <td>CC 119</td>
+      <td>Customizable</td>
+    </tr>
+  </tbody>
 </table>
-3. In Softwave solo the function you want to map.
-4. Create an →Audio Track← in Pro Tools.
-5. Open the plugin you want to map to.
-6. Now create a →MIDI Track← in Pro Tools.
-7. On the "Input" choose "Wave, Bluetooth".
-8. On the "Output" choose the plugin you put on the Audio Track.
-9. Open the plugin.
-10. Right-Click the parameter you want to control and select "Learn MIDI CC".
-11. Now De-Solo the function in Softwave. The function should be mapped to Pro Tools.
-
+3. In Softwave solo the function you want to map. 4. Create an →Audio Track← in
+Pro Tools. 5. Open the plugin you want to map to. 6. Now create a →MIDI Track←
+in Pro Tools. 7. On the "Input" choose "Wave, Bluetooth". 8. On the "Output"
+choose the plugin you put on the Audio Track. 9. Open the plugin. 10.
+Right-Click the parameter you want to control and select "Learn MIDI CC". 11.
+Now De-Solo the function in Softwave. The function should be mapped to Pro
+Tools.
 
 :::caution
 You won't be able to control the parameter with Wave unless you arm the MIDI Track.
 
 Not all Audio Plugins allow for MIDI Learn. This completely depends on the developer of the plugin. If nothing happens when you Right-Click a parameter in the plugin you can not assign MIDI to it.
 :::
-
