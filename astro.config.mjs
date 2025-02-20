@@ -10,6 +10,18 @@ export default defineConfig({
     starlight({
       title: "Genki Docs",
       plugins: [starlightLinksValidator()],
+      favicon: "/favicon.svg",
+      head: [
+        // Add ICO favicon fallback for Safari.
+        {
+          tag: "link",
+          attrs: {
+            rel: "icon",
+            href: "/favicon.ico",
+            sizes: "32x32",
+          },
+        },
+      ],
 
       social: {
         github: "https://github.com/genkiinstruments/genki-docs",
