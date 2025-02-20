@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Softwave"
 description: ""
 created_at: "2020-10-05T11:41:47Z"
 updated_at: "2022-03-09T11:31:17Z"
