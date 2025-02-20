@@ -44,7 +44,7 @@ Wave can be used at a distance of up to 10 meters (30 feet).
 
 ### How can I get in touch with customer service?
 
-The Genki team is available 9:00 AM -5:00 PM (GMT) Monday-Friday. You can send us an email at wave@genkiinstruments.com
+The Genki team is available 9:00 AM -5:00 PM (GMT) Monday-Friday. You can send us an [email](mailto:wave@genkiinstruments.com).
 
 ### Do you ship internationally?
 
@@ -69,4 +69,4 @@ Depending on where you are located in the world the shipping rates vary
 
 ### What is your return policy?
 
-We have a 30 day no-hassle return policy. Please let us know about the return at wave@genkiinstruments.com, and ship your order to Genki Instruments ehf., Klapparstigur 25-27, 101 Reykjavik, Iceland.
+We have a 30 day no-hassle return policy. Please let us know about the return [via email](mailto:wave@genkiinstruments.com)., and ship your order to Genki Instruments ehf., Klapparstigur 25-27, 101 Reykjavik, Iceland.

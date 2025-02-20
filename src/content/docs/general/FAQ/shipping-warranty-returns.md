@@ -47,10 +47,10 @@ We offer one-year warranty on all our hardware.
 
 ## I haven't received my order, what do I do?
 
-If more than 15 business days have passed since you placed your order, please reach out to wave@genkiinstruments.com with your order number and our Q&amp;A team will help you.
+If more than 15 business days have passed since you placed your order, please reach out to us via [email](mailto:wave@genkiinstruments.com). with your order number and our Q&amp;A team will help you.
 
 ## I would like to return my purchase, how do I do that?
 
 If your order was placed 30-days before you would like to, you are of course free to do that. 
 
-Please let us know about the return at wave@genkiinstruments.com, and ship your order to Genki Instruments ehf., 6th floor, Klapparstigur 25-27, 101 Reykjavik, Iceland.
+Please let us know about the return [via email](mailto:wave@genkiinstruments.com)., and ship your order to Genki Instruments ehf., 6th floor, Klapparstigur 25-27, 101 Reykjavik, Iceland.
