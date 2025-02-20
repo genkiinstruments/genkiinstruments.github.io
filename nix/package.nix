@@ -11,9 +11,12 @@ pkgs.stdenv.mkDerivation {
     pkgs.nodejs
     pkgs.pnpm.configHook
     pkgs.typescript
-    pkgs.vips
-    pkgs.pkg-config
   ];
+
+  buildInputs = [
+    pkgs.vips
+  ];
+
   buildPhase = ''
     pnpm build
   '';
@@ -26,6 +29,6 @@ pkgs.stdenv.mkDerivation {
 
   pnpmDeps = pkgs.pnpm.fetchDeps {
     inherit pname version src;
-    hash = "sha256-2OXwnhc6rN3j7vWB5UBardWt38u+X6wfH+9wOfseIXY=";
+    hash = "sha256-2iefCqirTWGjjavmnjYByjDxXzXKaxJzIReKTy2CybM=";
   };
 }
