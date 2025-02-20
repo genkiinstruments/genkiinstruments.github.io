@@ -12,7 +12,7 @@ Wave allows you to adjust your computer's audio by rotating your hand to the des
 
 In order to adjust the volume, hold the middle button and rotate your hand to the side.
 
-![](/images/article_4411039114385_image_0.png)
+![](../../../assets/images/article_4411039114385_image_0.png)
 
 :::tip
 The default setting for the middle button in the Video Call mode is to use the "Push-To-Talk" feature available in both Zoom and Teams. You can either use the "Push-To-Talk" feature or the Volume-Adjustment feature within this mode.

@@ -59,7 +59,7 @@ Make sure you have the latest version of Softwave. If the firmware update repeat
 6. Find Wave and select it
 7. Tap "Upload" and wait for the update to finish
 
-![](/images/article_360014089577_image_0.jpg)
+![](../../../../assets/images/article_360014089577_image_0.jpg)
 
 ### One or more functions in my preset are not working.
 
@@ -88,7 +88,7 @@ In Softwave, go to Menu → About and check that Virtual MIDI driver version is 
 1. If you don’t see the driver version, please install [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) and restart Softwave. Note: You don’t need to interact in any other way with loopMIDI, it is just required for the MIDI driver.
 2. If you have an earlier version of the driver, please uninstall **loopMIDI** and the **teVirtualMIDI - Vidrual MIDI Driver x64** from Device Manager. Then restart your computer and install loopMIDI from the step above.
 
-![](/images/article_360014089577_image_1.jpg)
+![](../../../../assets/images/article_360014089577_image_1.jpg)
 
 ### Wave gets in a strange connect/disconnect loop with the system (lights flashing on/off).
 

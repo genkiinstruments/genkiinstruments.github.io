@@ -14,4 +14,4 @@ Included in the sales packaging of Wave is;
 2. one (1) micro USB charging cable
 3. one (1) soft case.
 
-![](/images/article_360013653578_image_0.png)
+![](../../../../assets/images/article_360013653578_image_0.png)

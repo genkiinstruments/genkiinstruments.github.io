@@ -10,4 +10,4 @@ sidebar:
 
 Wear Wave on your index finger, with LED display on top and buttons on the finger's side - where you have easy access to them with your thumb.
 
-![](/images/article_360017912437_image_0.png)
+![](../../../assets/images/article_360017912437_image_0.png)

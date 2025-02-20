@@ -8,7 +8,7 @@ sidebar:
   order: 18
 ---
 
-![](/images/wave-for-work-settings.png)
+![](../../../assets/images/wave-for-work-settings.png)
 
 The settings can be accessed by pressing the gear icon in the lower left corner of the application.
 

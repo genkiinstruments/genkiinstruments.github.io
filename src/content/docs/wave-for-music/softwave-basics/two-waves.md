@@ -16,7 +16,7 @@ To connect a second Wave to Softwave press **B** at the top left corner of Softw
 
 Then follow the same steps as before when you connected the first Wave.
 
-![](/images/article_360013699857_image_0.gif)
+![](../../../../assets/images/article_360013699857_image_0.gif)
 
 ### Changing Wave **A** to **B** and vice versa
 
@@ -24,7 +24,7 @@ To change Wave **A** to **B** select Wave **A** and drag it down under **B**.
 
 The two connected Waves should change roles.
 
-![](/images/article_360013699857_image_1.gif)
+![](../../../../assets/images/article_360013699857_image_1.gif)
 
 ### Mapping functions to B
 
@@ -34,7 +34,7 @@ To map functions over to Wave **B** press the **A** in the lower left corner of 
 
 Repeat for all functions you want to map over to **B**.
 
-![](/images/article_360013699857_image_2.gif)
+![](../../../../assets/images/article_360013699857_image_2.gif)
 
 ### Identifying which Wave is which
 

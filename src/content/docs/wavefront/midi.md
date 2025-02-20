@@ -10,7 +10,7 @@ sidebar:
 
 Wavefront is configured to route fixed MIDI messages to each output.
 
-![](/images/article_360014342377_image_0.jpg)
+![](../../../assets/images/article_360014342377_image_0.jpg)
 
 Wavefront is capable of receiving 14-bit MIDI CC values. The controller numbers are fixed at 16-21.
 

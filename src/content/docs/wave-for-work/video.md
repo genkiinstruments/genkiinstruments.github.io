@@ -8,7 +8,7 @@ sidebar:
   order: 12
 ---
 
-![](/images/wave-for-work-video-call.png)
+![](../../../assets/images/wave-for-work-video-call.png)
 
 In the Video Call mode Wave acts as a remote for your most used video meeting applications, such as Zoom, Microsoft Teams and Google Meet.
 
@@ -54,14 +54,14 @@ The default settings can easily be customized.
 
 1. Click the action you want to change. For example "Raise Hand".
 
-![](/images/article_360017912557_image_1.png) 2. Select a new action from the list.
+![](../../../assets/images/article_360017912557_image_1.png) 2. Select a new action from the list.
 
-![](/images/article_360017912557_image_2.png) 3. To add a keyboard shortcut select "Custom". A pulsing button appears that reads "Press key". Type the keyboard shortcut on your keyboard you wish to use.
+![](../../../assets/images/article_360017912557_image_2.png) 3. To add a keyboard shortcut select "Custom". A pulsing button appears that reads "Press key". Type the keyboard shortcut on your keyboard you wish to use.
 
-![](/images/article_360017912557_image_3.png) 4. To create a custom display for your keyboard shortcut click the heart icon to the right.
+![](../../../assets/images/article_360017912557_image_3.png) 4. To create a custom display for your keyboard shortcut click the heart icon to the right.
 
-![](/images/article_360017912557_image_4.png) 5. Draw in a new icon that fits your keyboard shortcut by clicking the black and white dots with your mouse cursor. The black dots indicate the lights that will be visible. When finished click "Apply".
+![](../../../assets/images/article_360017912557_image_4.png) 5. Draw in a new icon that fits your keyboard shortcut by clicking the black and white dots with your mouse cursor. The black dots indicate the lights that will be visible. When finished click "Apply".
 
-![](/images/article_360017912557_image_5.png) 6. You're all set. In this example, every time you click the upper button, it now sends "cmd+Z" to your computer, and when you do, Wave's display shows a "Z" to indicate you've pressed the button.
+![](../../../assets/images/article_360017912557_image_5.png) 6. You're all set. In this example, every time you click the upper button, it now sends "cmd+Z" to your computer, and when you do, Wave's display shows a "Z" to indicate you've pressed the button.
 
-![](/images/article_360017912557_image_6.png)
+![](../../../assets/images/article_360017912557_image_6.png)

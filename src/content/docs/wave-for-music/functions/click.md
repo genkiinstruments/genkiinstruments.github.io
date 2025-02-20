@@ -8,7 +8,7 @@ sidebar:
   order: 6
 ---
 
-![](/images/article_360013785498_image_0.png)
+![](../../../../assets/images/article_360013785498_image_0.png)
 
 Click lets you use the buttons on Wave to send MIDI and Key commands to your DAW. Using the buttons on Wave to send commands opens up a lot of possibilities, for example you can use them to hit record, play and stop, to launch clips or to control switches in your plugins.
 
@@ -18,7 +18,7 @@ Click lets you use the buttons on Wave to send MIDI and Key commands to your DAW
 
 Each button has an icon as shown below.
 
-![](/images/article_360013785498_image_1.png)
+![](../../../../assets/images/article_360013785498_image_1.png)
 
 #### 2. Next select how the button behaves
 
@@ -46,7 +46,7 @@ Click is when you press a button once to send a command.
 
 Click allows you to choose between **Trigger** and **Latching.** A drop down menu is available in the bottom left corner of the Click function window when either Click or Long Press is chosen.
 
-![](/images/article_360013785498_image_2.png)
+![](../../../../assets/images/article_360013785498_image_2.png)
 
 **Trigger**
 Sends a short pulse with each click.
@@ -60,7 +60,7 @@ Long Press is when you press a button and hold it to send a command. The command
 
 Long Press allows you to choose between **Trigger** and **Latching**. A drop down menu is available in the bottom left corner of the Click function window when either Click or Long Press is chosen.
 
-![](/images/article_360013785498_image_3.png)
+![](../../../../assets/images/article_360013785498_image_3.png)
 
 **Trigger**
 Sends a short pulse with each click.
@@ -82,7 +82,7 @@ Momentoggle is basically Click and Momentary combined. Clicking once toggles whi
 2. Solo the Click you want to map in order for Softwave to only send the signal for that particular function to your DAW.
 3. When the parameter you want to map has been selected in your DAW toggle or hold the button for the MIDI message to register.
 
-![](/images/article_360013785498_image_4.gif)
+![](../../../../assets/images/article_360013785498_image_4.gif)
 
 ## Key commands / Shortcuts
 

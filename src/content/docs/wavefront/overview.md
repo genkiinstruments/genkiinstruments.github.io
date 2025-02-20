@@ -12,4 +12,4 @@ Wavefront is a 4HP Eurorack module that enables you to integrate the expressive 
 
 [ Download quickstart guide here](/quickstart-guides/wavefront.pdf).
 
-![](/images/article_360013554057_image_1.png)
+![](../../../assets/images/article_360013554057_image_1.png)

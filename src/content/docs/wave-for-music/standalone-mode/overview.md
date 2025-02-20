@@ -16,12 +16,12 @@ You can configure how Wave behaves in Standalone mode, creating presets and cust
 
 ### Standalone Mode default values
 
-![](/images/article_360013715117_image_0.png)
+![](../../../../assets/images/article_360013715117_image_0.png)
 
 ### Default button settings
 
 Wave has 3 buttons you can reach with your thumb. Each button has a certain function.
 
-![](/images/article_360013715117_image_1.png)
+![](../../../../assets/images/article_360013715117_image_1.png)
 
 The LED display indicates whether Wave is active or not. A stable horizontal line indicates that Wave is inactive while interactive horizontal and vertical lines indicate that Wave is actively sending data to your device.

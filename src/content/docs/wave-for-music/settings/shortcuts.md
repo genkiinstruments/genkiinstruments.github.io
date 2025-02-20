@@ -10,8 +10,8 @@ Use these shortcuts to control a few practical things in Softwave.
 
 ### Key Shortcuts: macOS
 
-![](/images/shortcuts_mac.png)
+![](../../../../assets/images/shortcuts_mac.png)
 
 ### Key Shortcuts: Windows
 
-![](/images/shortcuts_win.png)
+![](../../../../assets/images/shortcuts_win.png)
