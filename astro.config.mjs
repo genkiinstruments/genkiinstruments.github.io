@@ -72,18 +72,22 @@ export default defineConfig({
         {
           label: "Wavefront",
           autogenerate: { directory: "/wavefront" },
+          collapsed: true,
         },
         {
           label: "WIDI Master",
           autogenerate: { directory: "/widi-master" },
+          collapsed: true,
         },
         {
           label: "Cosmos",
           autogenerate: { directory: "/cosmos" },
+          collapsed: true,
         },
         {
           label: "Wave for Work",
           autogenerate: { directory: "/wave-for-work" },
+          collapsed: true,
         },
       ],
     }),
