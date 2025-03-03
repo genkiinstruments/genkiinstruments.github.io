@@ -3,7 +3,7 @@ title: Welcome!
 description: Learn all about Wave, Wavefront, Cosmos and more!
 ---
 
-Learn all about Genki products such as Wave, Wavefront and Cosmos!!!.......
+Learn all about Genki products such as Wave, Wavefront and Cosmos!!!............
 
 [ ![](../../assets/images/article_360017912157_image_0.png) ](/wave-for-music/quickstart/about/)
 
