@@ -8,7 +8,7 @@ export default defineConfig({
   site: "https://genkiinstruments.github.io",
   integrations: [
     starlight({
-      title: "Genki Docs",
+      title: "Genki Instruments",
       plugins: [starlightLinksValidator()],
       favicon: "/favicon.svg",
       head: [
