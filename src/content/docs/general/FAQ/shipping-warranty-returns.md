@@ -15,9 +15,9 @@ A confirmation email, containing your order number and order details, will be se
 
 Yes, we ship worldwide.
 
-## Do you ship to P.O. boxes?
+## Do you ship to PO boxes?
 
-If you want to ship to a P.O. box, expect the shipment to come from the EU.
+If you want to ship to a PO box, expect the shipment to come from the EU.
 
 ## Can I track my order?
 
