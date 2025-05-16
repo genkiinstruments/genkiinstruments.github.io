@@ -124,13 +124,17 @@ Remove any drivers listed in the error message and restart the computer. If you 
 
 ### I'm having Bluetooth connection issues.
 
-Try deleting any Bluetooth Property List files that might be corrupted. To remove the .plist files:
+If Wave is unstable and does not stay connected, you may need to clear your Bluetooth Cache.
 
-1. Turn Bluetooth off in your computer
-2. Choose Go from the Finder menu at the top of your screen ➙ Go to Folder
-3. Type in: /Library/Preferences
-4. Find the com.apple.Bluetooth.plist file and delete it
-5. Go back to Go in the Finder Menu ➙ Go to Folder
-6. Type in: ~/Library/Preferences/ByHost
-7. Find com.apple.Bluetooth.xxx.plist file and delete it
-8. Turn Bluetooth on in your computer
+Please go to Softwave's manubar and click on "Clear Bluetooth cache".
+
+![](../../../../assets/images/softwave-clear-bluetooth-1.png)
+After which a pop-up will appear. Please click on "Clear Cache".
+
+![](../../../../assets/images/softwave-clear-bluetooth-2.png)
+
+Finally you can press "Close" and reconnect Wave.
+
+![](../../../../assets/images/softwave-clear-bluetooth-3.png)
+
+Now it should stay connected.
