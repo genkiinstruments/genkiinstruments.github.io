@@ -56,10 +56,6 @@ Depending on where you are located in the world the shipping rates vary
 - GLS - Free shipping
 - DHL - $20
 
-- **Russia**
-- For orders over $200, Finnish Posti, EMS - Free shipping
-- For orders under $200, Finnish Posti, EMS - $20
-
 - **USA**
 - DHL Express Worldwide - Free shipping
 
