@@ -32,6 +32,10 @@ export default defineConfig({
           autogenerate: { directory: "/general" },
         },
         {
+          label: "Katla",
+          autogenerate: { directory: "/katla" },
+        },
+        {
           label: "Wave for Music",
           collapsed: true,
           items: [
