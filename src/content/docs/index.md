@@ -1,5 +1,5 @@
 ---
-title: Welcome 
+title: Welcome
 description: Learn all about Wave, Wavefront, Cosmos and more!
 ---
 

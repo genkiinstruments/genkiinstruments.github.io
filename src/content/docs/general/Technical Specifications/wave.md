@@ -10,6 +10,7 @@ Here you can find technical specifications about the Wave ring hardware.
 [ Download quickstart guide for work here. ](/quickstart-guides/wave-for-work.pdf)
 
 ## Dimensions
+
 ### Wave smart-ring
 
 - Height: 1.1 in / 28 mm
@@ -39,6 +40,7 @@ Here you can find technical specifications about the Wave ring hardware.
 - Depth: 4.17 in / 106 mm
 
 ## System Requirements
+
 ### Compatibility
 
 - Required: Bluetooth low energy technology
@@ -58,6 +60,7 @@ Here you can find technical specifications about the Wave ring hardware.
 - Works with hardware that support Bluetooth MIDI and mapping to parameters.
 
 ## Technical Specifications
+
 ### Sensor Technology
 
 - Motion sensor
@@ -87,6 +90,7 @@ Here you can find technical specifications about the Wave ring hardware.
 - Softcase
 
 ## Materials
+
 - Wave Smart-ring consists of polycarbonate, TPE, Stainless Steel, Li-ion battery
 - Ring strap consists of PU Leather, hook & loop
 - Softcase consists of EVA & foam

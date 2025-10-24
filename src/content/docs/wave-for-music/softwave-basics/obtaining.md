@@ -10,6 +10,10 @@ sidebar:
 
 Below you can find the newest release of Softwave.
 
+:::tip[Keep Softwave Updated]
+Always use the latest version of Softwave to ensure compatibility with the newest Wave firmware and features. For information about updating your Wave firmware, see the [Firmware Updates Guide](/wave-for-music/softwave-basics/firmware-updates/).
+:::
+
 ## macOS
 
 Download Softwave by [clicking here.](https://github.com/genkiinstruments/releases/releases/download/softwave/Softwave_mac.zip) Then follow the steps in the installer.

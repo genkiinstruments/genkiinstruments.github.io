@@ -31,35 +31,38 @@ Most DAWs have a setting for this in their preferences as well.
 
 ### I can't update the firmware of my Wave through Softwave.
 
-Make sure you have the latest version of Softwave. If the firmware update repeatedly fails, you can perform the update manually via Android/iOS.
+**For comprehensive firmware update instructions, troubleshooting steps, and information about where to find the latest versions, please see the [Firmware Updates Guide](/wave-for-music/softwave-basics/firmware-updates/).**
 
-##### Manual Firmware Update (iOS)
+**Quick troubleshooting steps:**
 
-- **To begin, get nRF Toolbox for your iOS device**
-  [nRF Toolbox for iOS](https://apps.apple.c/src/app/nrf-toolbox/id820906058)
-- Now download [this firmware zip package](https://github.com/genkiinstruments/releases/releases/tag/wave_firmware) to your iOS device. Select "Open in nRF Toolbox".
-- Turn Wave on, find it and select it in the list of devices in nRF Toolbox.
-- Tap "wave_firmware.zip".
-- Press "Update".
-- Wait for the update to complete, Wave should restart automatically.
+1. **Ensure you have the latest Softwave** - Download from [here](/wave-for-music/softwave-basics/obtaining/)
+2. **If update gets stuck at 0%:**
+   - Wait 2 minutes
+   - Close and restart Softwave
+   - Try the update again
+3. **If automatic updates fail repeatedly** - Use the manual smartphone update method
 
-##### Manual Firmware Update (Android)
+##### Quick Manual Update Reference
 
-- Before you start, please download [this firmware zip package](https://github.com/genkiinstruments/releases/releases/tag/wave_firmware) to your Android or iOS device.
-- **To begin, get nRF Toolbox for your Android device**
-  [nRF Toolbox for Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrftoolbox&hl=en&gl=US)
+If you need to update manually via smartphone, here's a quick reference:
 
-**Then follow these steps**
+**iOS:**
 
-1. Open nRF Toolbox
-2. Tap "DFU"
-3. Tap "Select File" and load the zip file you downloaded. If you're prompted, select "Distribution packet (ZIP)".
-4. Select "Application only" and press OK
-5. Tap "Select Device" and look under "Available Devices"
-6. Find Wave and select it
-7. Tap "Upload" and wait for the update to finish
+1. Download [Wave firmware](https://github.com/genkiinstruments/releases/releases/tag/wave_firmware)
+2. Get [nRF Toolbox for iOS](https://apps.apple.com/app/nrf-toolbox/id820906058)
+3. Open firmware in nRF Toolbox, select DFU, choose your Wave, and upload
 
-![](../../../../assets/images/article_360014089577_image_0.jpg)
+**Android:**
+
+1. Download [Wave firmware](https://github.com/genkiinstruments/releases/releases/tag/wave_firmware)
+2. Get [nRF Toolbox for Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrftoolbox)
+3. Open nRF Toolbox → DFU → Select File → Distribution packet (ZIP) → Application only → Select your Wave → Upload
+
+![nRF Toolbox interface](../../../../assets/images/article_360014089577_image_0.jpg)
+
+:::tip
+For detailed step-by-step instructions with troubleshooting, see the complete [Firmware Updates Guide](/wave-for-music/softwave-basics/firmware-updates/).
+:::
 
 ### One or more functions in my preset are not working.
 
